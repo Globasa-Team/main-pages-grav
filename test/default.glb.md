@@ -2,6 +2,8 @@
 title: 'GLOBASA!!!! This page is a test'
 ---
 
+**Test, 6/7/23 -Metal Toilet**
+
 # This is Globasa
 The title in the 'title' box above is what shows up on the title bar, and should be in the page language. If you go to the 'advanced' tab, the 'folder name' is the URL of this page, which is the same regardless of language. In theory, all pages should probably be in Globasa to be ideologically pure. But having pages use English make URLs more readable, if anyone reads URLs anymore.
 
