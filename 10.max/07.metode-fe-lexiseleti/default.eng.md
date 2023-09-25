@@ -22,7 +22,7 @@ The following caveats must be kept in mind during the source selection process. 
 
 -   _Never_ adopt minimal pairs with _v_ and _w_, _s_ and _z_ or word-final position _m_ and _n_.
 
--   Unless there is absolutely no other option and it has been thoroughly investigated for potential issues with affixed words, _never_ adopt minimal pairs with plus/minus a consonant or vowel at the beginning/end of words.
+-   Unless there is absolutely no other option and it has been thoroughly investigated for potential issues with affixed words, _never_ adopt a minimal pair with plus/minus a consonant or vowel at the beginning/end of words.
 
 -   Whenever possible, avoid minimal pairs with _l_ and _r_, _b_ and _p_, _f_ and _p_, _c_ and _j_, _c_ and _x_, _h_ and _r_ or minimal pairs with plus/minus a vowel at the beginning/end of words.
 

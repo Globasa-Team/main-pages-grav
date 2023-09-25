@@ -519,6 +519,8 @@ Las sílabas _er_, _ir_ y _ur_ del inglés representadas como **er**, **ir** y *
 
 [Reglas fonotácticas para palabras específicas a una cultura](https://www.reddit.com/r/Globasa/comments/10b6t5w/adjustment_in_phonotactic_rules_for/)
 
+[regla más simple para la omisión opcional de cópula en el lenguaje informal](https://www.reddit.com/r/Globasa/comments/159k89l/grammar_adjustment_simpler_rule_for_omission_of/)
+
 jul &rarr; **nenton**  
 wal &rarr; **nenhar**    
 
@@ -561,3 +563,4 @@ Law &rarr; **Lawi**
 katus &rarr; **kakutus**  
 
 yamdukan &rarr; yamdom &rarr; **restoran**  
+ofata &rarr; **mamba**

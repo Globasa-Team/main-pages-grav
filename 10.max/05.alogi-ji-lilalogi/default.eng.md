@@ -519,6 +519,8 @@ English _er_, _ir_ and _ur_ rendered **er**, **ir** and **ur** in Globasa, with 
 
 [Phonotactic rules for culture-specific words](https://www.reddit.com/r/Globasa/comments/10b6t5w/adjustment_in_phonotactic_rules_for/)
 
+[Simpler rule for optional omission of copula in informal language](https://www.reddit.com/r/Globasa/comments/159k89l/grammar_adjustment_simpler_rule_for_omission_of/)
+
 jul &rarr; **nenton**  
 wal &rarr; **nenhar**    
 
@@ -561,3 +563,4 @@ Law &rarr; **Lawi**
 katus &rarr; **kakutus**  
 
 yamdukan &rarr; yamdom &rarr; **restoran**  
+ofata &rarr; **mamba**
