@@ -564,3 +564,13 @@ katus &rarr; **kakutus**
 
 yamdukan &rarr; yamdom &rarr; **restoran**  
 ofata &rarr; **mamba**
+
+## Fase 6 (26 de julio, 2023)
+
+[**hu** sólo para cláusulas relativas](https://www.reddit.com/r/Globasa/comments/185cd3x/grammar_adjustment_hu_only_for_relative_clauses/)
+
+censur &rarr; **censora**  
+tramway &rarr; **tramu**  
+Hindi &rarr; **Hindi/Hindu**  
+sakate &rarr; **sahte**  
+kulube &rarr; **kolube**  

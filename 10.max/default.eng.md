@@ -17,7 +17,6 @@ child_type: default
 * [Changes and Adjustments](alogi-ji-lilalogi)
 * [Word Proposal Process](proceso-fe-lexijeni)
 * [Word Selection Methodology](metode-fe-lexiseleti)
-* [Etymological Stats](estatisti-fe-lexiofata)
 * [Globasa's History](histori-de-globasa)
 * [Guiding Principles](gidane-principi)
 * [Q&A](swal-ji-jawabu)

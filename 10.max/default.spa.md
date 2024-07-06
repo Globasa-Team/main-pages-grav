@@ -17,7 +17,6 @@ child_type: default
 * [Cambios y ajustes](alogi-ji-lilalogi)
 * [Procedimiento de propuesta de palabras](proceso-fe-lexijeni)
 * [Metodología de desarrollo léxico](metode-fe-lexiseleti)
-* [Estadísticas etimológicas](estatisti-fe-lexiofata)
 * [Historia del Globasa](histori-de-globasa)
 * [Preguntas y respuestas](swal-ji-jawabu)
 * [Licencia](izindoku)  
