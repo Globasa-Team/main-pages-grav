@@ -28,7 +28,7 @@ La siguiente es una lista de recursos y enlaces comunitarios para que aprenda so
 * [Cambios y ajustes](/max/alogi-ji-lilalogi)
 * [Procedimiento de propuesta de palabras](/max/proceso-fe-lexijeni)
 * [Metodología para el desarrollo léxico](/max/metode-fe-lexiseleti)
-* [Estadísticas etimológicas](/max/estatisti-fe-lexiofata)
+* [Estadísticas etimológicas](/max/estatisti-fe-lexiasel)
 * [Historia del Globasa](/max/histori-de-globasa)
 * [Wiki Fandom de Globasa](https://globasa.fandom.com/wiki/Globasa_Wiki) es una wiki comunitaria: traducciones y textos originales sin revisar, propuesta de palabras raíz y más.
 

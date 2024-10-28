@@ -28,7 +28,7 @@ The following is a list of resources and community links for you to learn about 
 	* [Changes and Adjustments](/max/alogi-ji-lilalogi)
 	* [Word Proposal Process](/max/proceso-fe-lexijeni)
 	* [Word Selection Methodology](/max/metode-fe-lexiseleti)
-	* [Etymological Stats](/max/estatisti-fe-lexiofata)
+	* [Etymological Stats](/max/estatisti-fe-lexiasel)
 	* [Globasa's History](/max/histori-de-globasa)
 * [Globasa Fandom](https://globasa.fandom.com/wiki/Globasa_Wiki) is a community wiki: unrevised translations and original texts, proposed root words, and more.  
 

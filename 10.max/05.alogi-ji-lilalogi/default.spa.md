@@ -561,6 +561,8 @@ kayvu &rarr; **kayvutu**
 kwayho &rarr; **kweho**    
 Law &rarr; **Lawi**  
 katus &rarr; **kakutus**  
+lanterna &rarr; **lenterna**  
+kranberi &rarr; **kren-beri**  
 
 yamdukan &rarr; yamdom &rarr; **restoran**  
 ofata &rarr; **mamba**
@@ -574,3 +576,11 @@ tramway &rarr; **tramu**
 Hindi &rarr; **Hindi/Hindu**  
 sakate &rarr; **sahte**  
 kulube &rarr; **kolube**  
+gono &rarr; **gona**  
+mwama &rarr; **moama**  
+xigudo &rarr; **xikudo**  
+geno &rarr; **genu**  
+kano &rarr; **kanu**  
+kanue &rarr; **kanoe**  
+afyun &rarr; **apyun**  
+

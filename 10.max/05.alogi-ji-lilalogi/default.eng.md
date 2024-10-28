@@ -561,6 +561,8 @@ kayvu &rarr; **kayvutu**
 kwayho &rarr; **kweho**    
 Law &rarr; **Lawi**  
 katus &rarr; **kakutus**  
+lanterna &rarr; **lenterna**  
+kranberi &rarr; **kren-beri**  
 
 yamdukan &rarr; yamdom &rarr; **restoran**  
 ofata &rarr; **mamba**
@@ -569,9 +571,26 @@ ofata &rarr; **mamba**
 
 [**hu** only for relative clauses](https://www.reddit.com/r/Globasa/comments/185cd3x/grammar_adjustment_hu_only_for_relative_clauses/)
 
+[New system for ambitransitive verbs: verbs of feeling](https://www.reddit.com/r/Globasa/comments/1e9tyzb/ambitransitive_verbs_denoting_a_feeling/)
+
+[New system for ambitransitive verbs: agentless verbs](https://www.reddit.com/r/Globasa/comments/1ef9ja8/agentless_ambitransitive_verbs/)
+
+[New system for ambitransitive verbs: verbs of location/position and movement](https://www.reddit.com/r/Globasa/comments/1efhfgp/ambitransitive_verbs_of_positionlocation_and/)
+
+[Ambitransitive verbs &rarr; transitive/intransitive](https://www.reddit.com/r/Globasa/comments/1egayy7/list_of_ambitransitive_verbs_now_transitive_or/)
+
+[Ambitransitive Verbs: root + -cu &rarr; xor-](https://www.reddit.com/r/Globasa/comments/1evjlij/tentative_grammar_adjustment_eliminate/) 
+
 censur &rarr; **censora**  
 tramway &rarr; **tramu**  
 Hindi &rarr; **Hindi/Hindu**  
 sakate &rarr; **sahte**  
 kulube &rarr; **kolube**  
+gono &rarr; **gona**  
+mwama &rarr; **moama**  
+xigudo &rarr; **xikudo**  
+geno &rarr; **genu**  
+kano &rarr; **kanu**  
+kanue &rarr; **kanoe**  
+afyun &rarr; **apyun**  
 
