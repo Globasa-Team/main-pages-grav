@@ -38,23 +38,23 @@ Las siguientes advertencias deben tenerse en cuenta durante el proceso de selecc
 
     - Seleccione la fuente con la mayor cantidad de familias lingüísticas representadas.
         - El inglés, el francés, el alemán, el ruso y el español se consideran una sola familia.
-        - El indonesio y filipino pertenecen a la misma familia.
-        - El mandarín, coreano, japonés, vietnamita, hindi, télugu, árabe, swahili, persa y turco pertenecen a diferentes familias.
+        - El mandarín, el coreano, el japonés, el vietnamita, el hindi, el télugu, el árabe, el swahili, el persa, el turco y el indonesio pertenecen a diferentes familias.
 
     - En caso de empate en el número de familias representadas, el orden de prioridad para la selección de la fuente es el siguiente:
-        - Dos o más de los idiomas asiáticos: mandarín, japonés, coreano, vietnamita
+        - Dos o más de los idiomas del este asiático: mandarín, japonés, coreano, vietnamita
         - Árabe, compatible con cualquier otro idioma o idiomas (persa o swahili, por ejemplo)
         - Hindi, compatible con cualquier otro idioma o idiomas (télugu, indonesio o cualquier idioma europeo, por ejemplo)
-        - Idiomas europeos, compatibles con cualquier otro idioma o idiomas (indonesio, filipino o turco, por ejemplo)
+        - Idiomas europeos, compatibles con cualquier otro idioma o idiomas (indonesio o turco, por ejemplo)
         - persa y turco
 
     - Si no hay concordancia, haz una búsqueda más exhaustiva con otras clases de palabra o con sinónimos.
 
     - Si aún no hay acuerdo, elija la fuente más adecuada en función del siguiente orden de prioridad.
-        - indonesio _y_ filipino
-        - árabe
+        - mandarin (sólo palabras de dos caracteres)
+        - vietnamita
+        - télugu
         - swahili
-        - mandarín
+        - árabe
         - hindi
 
     - Tenga en cuenta que las advertencias anteriores siempre prevalecen sobre las pautas de selección de fuentes.

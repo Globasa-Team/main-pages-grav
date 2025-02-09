@@ -38,23 +38,23 @@ The following caveats must be kept in mind during the source selection process. 
 
     -   Select the source with the most language families represented.
         -   English, French, German, Russian and Spanish are considered one family.  
-        -   Indonesian and Filipino are in the same family.
-        -   Mandarin, Korean, Japanese, Vietnamese, Hindi, Telugu, Arabic, Swahili, Persian and Turkish are all in different families.
+        -   Mandarin, Korean, Japanese, Vietnamese, Hindi, Telugu, Arabic, Swahili, Persian, Turkish and Indonesian are all in different families.
 
     -   If there is a tie in number of families represented, the order of priority for source selection is as follows:
-        -   Any two or more of the Asian languages: Mandarin, Japanese, Korean, Vietnamese
+        -   Any two or more of the East Asian languages: Mandarin, Japanese, Korean, Vietnamese
         -   Arabic, supported by any other language or languages (Persian or Swahili, for example)
         -   Hindi, supported by any other language or languages (Telugu, Indonesian, or any European language, for example)
-        -   European languages, supported by any other language or languages (Indonesian, Filipino or Turkish, for example)
+        -   European languages, supported by any other language or languages (Indonesian or Turkish, for example)
         -   Persian and Turkish
 
     -   If there is no agreement, do a more thorough search with other parts of speech or with synonyms.
 
     -   If there is still no agreement, choose the most appropriate source based on the following order of priority.
-        -   Indonesian _and_ Filipino
-        -   Arabic
+        -   Mandarin (two-character words only)
+        -   Vietnamese
+        -   Telugu
         -   Swahili
-        -   Mandarin
+        -   Arabic
         -   Hindi
 
     -   Keep in mind that the caveats above always trump the source selection guidelines.
