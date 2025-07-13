@@ -593,4 +593,14 @@ geno &rarr; **genu**
 kano &rarr; **kanu**  
 kanue &rarr; **kanoe**  
 afyun &rarr; **apyun**  
-
+intona &rarr; **entona**  
+paradox &rarr; **paradoksa**  
+fenix &rarr; **feniksu**  
+lux &rarr; **luksi**  
+latex &rarr; **lateksu**  
+Hangu &rarr; **Korea**  
+daif &rarr; **daifu**  
+bateri &rarr; **bakuteri**  
+jonlyoku &rarr; **conlyoku**   
+yomo &rarr; **yanmo**  
+bason &rarr; **basun**  
