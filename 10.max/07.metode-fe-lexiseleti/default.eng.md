@@ -34,7 +34,7 @@ The following caveats must be kept in mind during the source selection process. 
 
 ### Source Selection Algorithm
 
--   Check the following languages on online sources such as Google Translate, [Wiktionary](https://www.wiktionary.org/) and Wikipedia as well as use print dictionaries as support when in doubt: English, French, German, Russian, Spanish, Mandarin, Japanese, Korean, Vietnamese, Hindi, Telugu, Arabic, Swahili, Persian, Turkish, Indonesian, Filipino. You may also want to try the [Globasa Etymology Helper](https://globasa-etymology-helper.glitch.me/) app. 
+-   Check the following languages on reliable online sources such as [Wiktionary](https://www.wiktionary.org/) and Wikipedia as well as use print dictionaries as support when in doubt: English, French, German, Russian, Spanish, Mandarin, Japanese, Korean, Vietnamese, Hindi, Telugu, Arabic, Swahili, Persian, Turkish, Indonesian, Filipino. You may also want to try the [Globasa Etymology Helper](https://globasa-etymology-helper.glitch.me/) app. 
 
     -   Select the source with the most language families represented.
         -   English, French, German, Russian and Spanish are considered one family.  
