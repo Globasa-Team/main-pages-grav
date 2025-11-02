@@ -9,11 +9,36 @@ menu: 'Guiding Principles'
 
 Globasa's design, reminiscent of the world's [creole](https://en.wikipedia.org/wiki/Creole_language) languages, is the result of the following guiding principles:
 
+* Internationality 
 * Optimal simplicity with the goal of maximum learnability _and_ ease of use for _both_ speaker _and_ listener
 * Optimal balance between opposing linguistic parameters
-* Internationality 
 
-### Optimal Simplicity and Balance
+### Internationality
+How international in scope should the lexicon of a world language be?
+
+There are over 6,000 natural languages in the world. Should all languages, or at least all language families, be taken into account? Should only one language family be the primary source?
+
+Globasa's response, once again, is to settle on a middle ground and rely primarily, although not exclusively, on the largest and most influential languages and language families.
+
+#### Languages
+Mandarin Chinese, Japanese, Korean, Vietnamese and Swahili
+
+_Note: Although Mandarin, Japanese, Korean and Vietnamese all belong to different language families they share many cognates. This commonality is harnessed in Globasa._
+
+#### Language families
+* **Dravidian**: Telugu, Tamil, etc.
+* **Germanic**: English, German, etc.
+* **Indic**: Hindi/Urdu, Bengali, etc.  
+* **Iranian**: Persian, Pashto, etc. 
+* **Malayo-Polynesian**: Indonesian/Malaysian, Filipino, etc.
+* **Romance**: Spanish, French, etc.
+* **Semitic**: Arabic and Hebrew
+* **Slavic**: Russian, Polish, etc.
+* **Turkic**: Turkish, Uzbek, etc.
+
+_Rationale: Most, if not all, of the remaining less widely spoken languages (including the indigenous languages of the world) have at least to some degree borrowed from the languages above, and vice versa. As a result, languages not taken into account are bound to have at least a small number of words in common with those selected for Globasa._ <a id="jandanya_ji_egalwazen"></a>
+
+### Optimal Simplicity and Balance 
 In constructing a world language that is easy to learn and use for both speaker and listener, the consensus is to aim for simplicity. Taken too far, however, simplicity can unfortunately result in lack of functionality, impracticality or even in greater difficulty. The reason for this paradox is due to the following facts:
 
 * What is easy for the speaker is not always and necessarily easy for the listener.
@@ -54,28 +79,3 @@ _Rationale: In its experimental stage, Globasa started off as a completely head-
 
 * _There is, in fact, an advantage to head-last phrases: the head being the most recently spoken word in the phrase. However, with long and complex phrases this advantage falls apart and instead head-first phrases are easier to process, as described [here](http://wayback.cecm.sfu.ca/~thalie/PhD/node36.html)._
 * _Even in many head-first languages where nouns precede adjectives, such as in Spanish, word formation tends to be head-last._
-
-### Internationality
-How international in scope should the lexicon of a world language be?
-
-There are over 6,000 natural languages in the world. Should all languages, or at least all language families, be taken into account? Should only one language family be the primary source?
-
-Globasa's response, once again, is to settle on a middle ground and rely primarily, although not exclusively, on the largest and most influential languages and language families.
-
-#### Languages
-Mandarin Chinese, Japanese, Korean, Vietnamese, Swahili 
-
-_Note: Although Mandarin, Japanese, Korean and Vietnamese all belong to different language families they share many cognates. This commonality is harnessed in Globasa._
-
-#### Language families
-* **Dravidian**: Telugu, Tamil, etc.
-* **Germanic**: English, German, etc.
-* **Indic**: Hindi/Urdu, Bengali, etc.  
-* **Iranian**: Persian, Pashto, etc. 
-* **Malayo-Polynesian**: Indonesian/Malaysian, Filipino, etc.
-* **Romance**: Spanish, French, etc.
-* **Semitic**: Arabic and Hebrew
-* **Slavic**: Russian, Polish, etc.
-* **Turkic**: Turkish, Uzbek, etc.
-
-_Rationale: Most, if not all, of the remaining less widely spoken languages (including the indigenous languages of the world) have at least to some degree borrowed from the languages above, and vice versa. As a result, languages not taken into account are bound to have at least a small number of words in common with those selected for Globasa._

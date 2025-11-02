@@ -20,6 +20,9 @@ The following Globasa-only chat groups are discussion areas where we only speak 
 See below for multilingual discussion groups.
 
 #### Globasa Development
+
+After an experimental and developmental stage of two years, Globasa was published on July 26th, 2019 with a complete core grammar and 1,000 root words, ready to be put into practice. Since then, Globasa has undergone further [development](https://www.globasa.net/eng/max/alogi-ji-lilalogi) with the help and collaboration of the auxlang community, but has otherwise remained [relatively stable](https://www.reddit.com/r/Globasa/comments/qskclh/globasas_stability_comparison_of_original_globasa/) and true to its vision. With over 3,000 root words and over 8,000 total dictionary entries, a [beginner's course](https://xwexi.globasa.net/eng/darsu) and plenty of reading material, Globasa is currently in [Phase 6](https://www.reddit.com/r/Globasa/comments/15a8861/fase_6/) of its developmental and growth stage.
+
 The following is a list of resources and community links for you to learn about Globasa and participate in our community.
 
 * [Globasa's guiding principles](/max/gidane-principi) describe how the language was designed.
