@@ -7,6 +7,12 @@ cache_enable: false
 #### Learn and Use Globasa
 We are working to increase the number of resources available for learning and using Globasa.
 
+* [500 most common root words and affixes](https://menalari.globasa.net/eng/lexilari/500%20maxim%20pimpan%20genulexi%20ji%20fikso): Master this list to achieve basic fluency and comprehend over 90% of the words in typical Globasa texts.
+ * [Part 1](https://menalari.globasa.net/eng/lexilari/bage%201%20de%20lista%20500)
+ * [Part 2](https://menalari.globasa.net/eng/lexilari/bage%202%20de%20lista%20500)
+ * [Part 3](https://menalari.globasa.net/eng/lexilari/bage%203%20de%20lista%20500)
+ * [Part 4](https://menalari.globasa.net/eng/lexilari/bage%204%20de%20lista%20500)
+ * [Part 5](https://menalari.globasa.net/eng/lexilari/bage%205%20de%20lista%20500)
 * [Xwexi](https://xwexi.globasa.net/eng) includes a series of lessons and a complete grammar for Globasa.
 * [Doxo](https://doxo.globasa.net/eng) contains a catalogue of readings to practice Globasa.
 * [Menalari](https://menalari.globasa.net/eng) is a searchable translation dictionary.
