@@ -11,6 +11,6 @@ image_align: left
 
 #### The Language of the World Citizen
 
-Globasa is the product of an elaborate thought experiment. It envisions the linguistic outcome of a hypothetical scenario whereby 1,000 people from around the world are randomly selected to permanently inhabit an island. What would the community's language look like within three generations? This is Globasa's guiding vision.
+Globasa is the product of an elaborate thought experiment. It envisioned a hypothetical scenario whereby one thousand people from around the world are randomly selected to permanently inhabit an island. What would the village language look like within three generations? This was Globasa's guiding vision, from which a small but vibrant community of Globasa speakers and collaborators has emerged in the present decade. 
 
-Globasa's design is primarily the work of a linguist, translator and expert in adult language acquisition and teaching. It has been created with the average world citizen in mind to be as easy as possible to learn and to use without sacrificing clarity and degree of expressiveness. Its design, reminiscent of the world's [creole languages](https://en.wikipedia.org/wiki/Creole_language), is the result of the following guiding principles:
+The Globasa project was launched in 2019 by a linguist, translator and expert in adult language acquisition and teaching. It has been created with the average world citizen in mind to be as easy as possible to learn and to use without sacrificing clarity and degree of expressiveness. Its design, reminiscent of the world's [creole languages](https://en.wikipedia.org/wiki/Creole_language), is the result of the following guiding principles:
