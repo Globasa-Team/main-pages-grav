@@ -4,39 +4,44 @@ image_align: left
 cache_enable: false
 ---
 
-#### Aprenda y use el Globasa
-Estamos trabajando para aumentar la cantidad de recursos disponibles para aprender y usar el Globasa.
+#### Recursos de aprendizaje
 
-* [Xwexi](https://xwexi.globasa.net/spa) incluye una serie de lecciones y una gramática completa del Globasa.
-* [Doxo](https://doxo.globasa.net/spa) contiene un catálogo de lecturas para practicar el Globasa.
-* [Menalari](https://menalari.globasa.net/spa) es un diccionario de traducción con opción de búsqueda.
-* [Globasawiki](https://wiki.globasa.net/wiki/Cuyo_Sayfa) es un Wiki en Globasa.
+Resumen rápido:
+* [Gramática de referencia breve](https://en.wikiversity.org/wiki/User:Sir_Beluga/Globasa)
 
-Los siguientes grupos de chat exclusivos en Globasa son áreas de discusión en las que sólo hablamos Globasa. El canal Discord y grupo Telegram están vinculados entre sí. Esto significa que puede unirse a cualquiera de los dos y verá la discusión en ambos. El chat sirve para que los recién llegados y los hablantes fluidos practiquen y aprendan.
+Comienza a aprender:
+* [500 raíces y afijos más comunes](https://menalari.globasa.net/eng/lexilari/500%20maxim%20pimpan%20genulexi%20ji%20fikso): Domina esta lista para lograr fluidez básica y comprender más del 90% de las palabras en textos típicos de Globasa. 
+* [Parte 1](https://menalari.globasa.net/eng/lexilari/bage%201%20de%20lista%20500) 
+* [Parte 2](https://menalari.globasa.net/eng/lexilari/bage%202%20de%20lista%20500) 
+* [Parte 3](https://menalari.globasa.net/eng/lexilari/bage%203%20de%20lista%20500) 
+* [Parte 4](https://menalari.globasa.net/eng/lexilari/bage%204%20de%20lista%20500) 
+* [Parte 5](https://menalari.globasa.net/eng/lexilari/bage%205%20de%20lista%20500)
+* [Xwexi](https://xwexi.globasa.net/eng) incluye un curso para principiantes y una gramática completa de Globasa.
+* [Doxo](https://doxo.globasa.net/eng) contiene un catálogo de lecturas para practicar Globasa.
+* [Menalari](https://menalari.globasa.net/eng) es un diccionario de traducción con más de 3000 palabras raíz y una variedad de funciones útiles para los estudiantes.
 
-* [Grupo de Globasa en Telegram](https://t.me/+Fs990oWWZtJMAfhy): Este grupo está vinculado al canal de Discord a continuación.
-* [Canal de Globasa en Discord](https://discord.gg/tyYHheM): Este grupo está vinculado al grupo de Telegram anterior. Se encuentra en el servidor auxlangs/helplingvoj. Encuentra el canal #globasa bajo la sección 1.2. WORLDWIDE VOCABULARY.
+Wikis:
+* [Globasawiki](https://globasa.miraheze.org/wiki/Cuyo_Sayfa) es un sitio web tipo Wikipedia que también incluye [borradores de traducciones colaborativos](https://globasa.miraheze.org/wiki/Globasawiki:Basataytilari).
+* [Fandom de Globasa](https://globasa.fandom.com/wiki/Globasa_Wiki) es una wiki comunitaria que contiene principalmente traducciones sin revisar y textos originales.
 
-Vea a continuación los grupos de discusión multilingües.
+#### Comunidad: Plataformas de discusión y chat
+¡Únete para hacer preguntas, conectar con la comunidad y empezar a usar Globasa!
 
-#### Desarrollo del Globasa
-La siguiente es una lista de recursos y enlaces comunitarios para que aprenda sobre el Globasa y participe en nuestra comunidad.
+* [Reddit](https://www.reddit.com/r/Globasa/): El subreddit de Globasa incluye actualizaciones de la comunidad y diversos temas de discusión sobre el desarrollo de Globasa. También compartimos contenido de Globasa, como [memes](https://www.reddit.com/r/Globasa/?f=flair_name%3A%22Mimu%20%E2%80%94%20Meme%22), [canciones](https://www.reddit.com/r/Globasa/?f=flair_name%3A%22Lala%20%E2%80%94%20Song%22), [vídeos](https://www.reddit.com/r/Globasa/?f=flair_name%3A%22Video%20%E2%80%94%20Video%22) y [gráficos de vocabulario](https://www.reddit.com/r/Globasa/?f=flair_name%3A%22Grafika%20%E2%80%94%20Graphic%22).  
+* [Bluesky](https://bsky.app/): Encuéntranos y encuentra nuestras publicaciones en Globasa buscando #Globasa.
+* [Servidor de Discord de Globasa](https://discord.gg/JCaqAvapGR): Este servidor está dedicado exclusivamente a nuestra comunidad. Es la plataforma de discusión más activa e incluye múltiples canales exclusivos de Globasa para chatear sobre diversos temas.
+* [Servidor de Discord de Auxlang](https://discord.gg/tyYHheM): El canal de Globasa del servidor de Discord de Auxlang incluye principalmente actualizaciones sobre el desarrollo de Globasa. Encuentra el canal #globasa en la sección 1.2. VOCABULARIO MUNDIAL.
+* [Telegram](https://t.me/+D4HjZQpQqXZ1vLMS): Esta sala de chat es la menos activa, pero ocasionalmente tiene miembros chateando en Globasa o discutiendo sobre su desarrollo.
 
-* [Los principios rectores del Globasa](/max/gidane-principi) describen cómo se diseñó el lenguaje.
-* La sección de preguntas frecuentes tiene información sobre una variedad de temas relevantes al desarrollo del Globasa:
-* [Estabilidad del Globasa](/max/andinya-de-globasa)
+#### Desarrollo
+
+Tras dos años de experimentación y desarrollo, Globasa se publicó el 26 de julio de 2019 con una gramática básica completa y 1000 raíces, listo para su uso. Desde entonces, Globasa ha seguido desarrollándose con la ayuda y colaboración de la comunidad auxlang, pero por lo demás se ha mantenido relativamente estable y fiel a su visión. Con más de 9000 entradas de diccionario, un curso para principiantes (https://xwexi.globasa.net/eng/darsu) y abundante material de lectura, Globasa se encuentra actualmente en la fase 6 (https://www.reddit.com/r/Globasa/comments/15a8861/fase_6/) de su etapa de desarrollo y crecimiento.
+
+Páginas web relevantes en torno al desarrollo de Globasa:
+
+* [Principios rectores de Globasa](/max/gidane-principi)
+* [Estabilidad de Globasa](/max/andinya-de-globasa)
 * [Cambios y ajustes](/max/alogi-ji-lilalogi)
-* [Procedimiento de propuesta de palabras](/max/proceso-fe-lexijeni)
-* [Metodología para el desarrollo léxico](/max/metode-fe-lexiseleti)
-* [Estadísticas etimológicas](/max/estatisti-fe-lexiasel)
-* [Historia del Globasa](/max/histori-de-globasa)
-* [Wiki Fandom de Globasa](https://globasa.fandom.com/wiki/Globasa_Wiki) es una wiki comunitaria: traducciones y textos originales sin revisar, propuesta de palabras raíz y más.
-
-#### Discusión multilingüe
-Los siguientes grupos de discusión sirven para que cualquiera se una, haga preguntas sobre el Globasa y se interese por nuestra comunidad.
-
-* [Reddit](https://www.reddit.com/r/Globasa/): El subreddit de Globasa incluye noticias, preguntas y discusiones sobre el Globasa a medida que se desarrolla y se difunde.
-* [Telegram](https://t.me/+D4HjZQpQqXZ1vLMS): El chat de Telegram incluye a personas de todo el mundo participando en discusiones sobre el desarrollo del Globasa. Este grupo está vinculado al canal Discord, a continuación.
-* [Discord](https://discord.gg/tyYHheM): El canal Discord incluye personas de todo el mundo participando en discusiones sobre el desarrollo del Globasa. Este grupo está vinculado al grupo de Telegram, arriba. Se encuentra en el servidor auxlangs/helplingvoj. Encuentre el canal #globasa bajo la sección 1.2. WORLDWIDE VOCABULARY.
-* [Servidor de Globasa en Discord](https://discord.gg/JCaqAvapGR): Servidor dedicado íntegramente al Globasa. Éste es ahora el grupo de discusión del Globasa más activo.
-* [Facebook](https://www.facebook.com/groups/438894989997591/?ref=bookmarks): El grupo de Facebook incluye publicaciones semanales con noticias y discusiones sobre el Globasa.
+* [Proceso de propuesta de palabras](/max/proceso-fe-lexijeni)
+* [Metodología de selección de palabras](/max/metode-fe-lexiseleti)
+* [Historia de Globasa](/max/histori-de-globasa)

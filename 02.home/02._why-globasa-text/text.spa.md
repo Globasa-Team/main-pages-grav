@@ -9,10 +9,8 @@ image_align: left
      <h2>Basa de Globayen</h2>
 </header>
 
-#### El lenguaje del ciudadano del mundo
+#### El Idioma del Ciudadano del Mundo
 
-El Globasa es el producto de un elaborado experimento mental. Visualiza el resultado lingüístico de un escenario hipotético en el que 1000 personas de todo el mundo son seleccionadas al azar para habitar permanentemente en una isla. ¿Cómo sería el idioma de dicha comunidad dentro de tres generaciones? Ésta es la visión guía del Globasa.
+Globasa es el resultado de un elaborado experimento mental. Se imaginó un escenario hipotético en el que mil personas de todo el mundo, seleccionadas al azar, se ofrecían como voluntarias para mudarse a una isla deshabitada. ¿Cómo sería el idioma de dicha aldea dentro de tres generaciones? Ésta fue nuestra visión rectora, de la cual ha surgido una pequeña pero vibrante comunidad de hablantes de Globasa y colaboradores en la presente década.
 
-Luego de una etapa experimental y de desarrollo de dos años, el Globasa se publicó el 26 de julio de 2019 con una gramática básica plenamente elaborada y 1000 raíces, listo para ser puesto en práctica. Desde entonces, el Globasa ha continuado su [desarrollo](https://www.globasa.net/spa/max/alogi-ji-lilalogi) con la ayuda y colaboración de la comunidad _auxlang_, pero por lo demás ha permanecido [relativamente estable](https://www.reddit.com/r/Globasa/comments/qskclh/globasas_stability_comparison_of_original_globasa/) y fiel a su visión. Con más de 3000 palabras raíz y más de 8000 entradas de diccionario en total, un [curso para principiantes](https://xwexi.globasa.net/spa/darsu) y mucho material de lectura, el Globasa se encuentra actualmente en la [Fase 6](https://www.reddit.com/r/Globasa/comments/15a8861/fase_6/) de su etapa de desarrollo y crecimiento.
-
-El diseño del Globasa es principalmente el trabajo de un lingüista, traductor y experto en la adquisición y enseñanza de idiomas para adultos. Ha sido creado pensando en el ciudadano promedio del mundo para que sea lo más fácil posible de aprender y usar sin sacrificar la claridad y el grado de expresividad. Su diseño, que recuerda a las lenguas criollas del mundo, es el resultado de los siguientes [principios rectores](https://www.globasa.net/spa/max/gidane-principi):
+El proyecto Globasa fue lanzado en 2019 por un lingüista, traductor y experto en adquisición y enseñanza de idiomas para adultos. Se creó pensando en el ciudadano promedio del mundo para que fuera lo más fácil posible de aprender y usar sin sacrificar la claridad ni la expresividad. Su diseño, que evoca a las [lenguas criollas](https://es.wikipedia.org/wiki/Lengua_criolla) del mundo es el resultado de los siguientes principios rectores:

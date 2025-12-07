@@ -4,19 +4,19 @@ class: standard
 features:
     -
         icon: 'fa fa-comments'
-        header: 'Simplicidad óptima'
-        text: 'Con el objetivo de máxima capacidad de aprendizaje y facilidad de uso tanto para el hablante como para el oyente'
-        url: null
+        header: Internacionalidad
+        text: 'Palabras raíces provenientes de 16 de los principales idiomas del mundo'
+        url: 'https://menalari.globasa.net/spa/estatisti-fe-lexiasel'
     -
         icon: 'fa fa-sliders'
-        header: Equilibrio
-        text: 'Equilibrio óptimo entre parámetros lingüísticos opuestos'
-        url: null
+        header: 'Simplicidad óptima'
+        text: 'Con el objetivo de lograr la máxima facilidad de aprendizaje y uso tanto para el hablante como para el oyente'
+        url: 'https://www.globasa.net/spa/max/gidane-principi#jandanya_ji_egalwazen'
     -
         icon: 'fa fa-map-o'
-        header: Internacionalidad
-        text: 'Idiomas de todos los continentes son la fuente de las palabras del Globasa'
-        url: null
+        header: Balance
+        text: 'Equilibrio óptimo entre parámetros lingüísticos opuestos'
+        url: 'https://www.globasa.net/spa/max/gidane-principi#jandanya_ji_egalwazen'
 cache_enable: false
 ---
 
