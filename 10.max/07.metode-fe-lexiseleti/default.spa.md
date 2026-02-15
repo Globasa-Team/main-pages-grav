@@ -34,7 +34,7 @@ Las siguientes advertencias deben tenerse en cuenta durante el proceso de selecc
 
 ### Algoritmo de selección de fuente
 
-- Verifique los siguientes idiomas en fuentes en línea como Google Translate, [Wiktionary](https://www.wiktionary.org/) y Wikipedia, y use diccionarios impresos como apoyo en caso de duda.: inglés, francés, alemán, ruso, español, mandarín, japonés, coreano, vietnamita, hindi, télugu, árabe, swahili, persa, turco, indonesio, filipino. También puede probar la aplicación [Globasa Etymology Helper](https://globasa-etymology-helper.glitch.me/).
+- Verifique los siguientes idiomas en fuentes en línea como Google Translate, [Wiktionary](https://www.wiktionary.org/) y Wikipedia, y use diccionarios impresos como apoyo en caso de duda.: inglés, francés, alemán, ruso, español, mandarín, japonés, coreano, vietnamita, hindi, télugu, árabe, swahili, persa, turco, indonesio, filipino.  
 
     - Seleccione la fuente con la mayor cantidad de familias lingüísticas representadas.
         - El inglés, el francés, el alemán, el ruso y el español se consideran una sola familia.
