@@ -38,6 +38,4 @@ _Advanced and fluent speakers: Propose new words and develop any type of content
 * translate the Globasa website into your language through proofreading. We are currently working on the **Esperanto** translation and still need volunteers. 
 	
 _Fund out-of-pocket expenses and projects via:_
- 	* [Patreon](https://www.patreon.com/Globasa)
- 	* [Liberapay](https://liberapay.com/Globasa)
  	* [Paypal](https://www.paypal.com/paypalme/globayen)

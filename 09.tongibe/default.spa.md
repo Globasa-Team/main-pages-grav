@@ -27,6 +27,4 @@ Cualquiera puede contribuir de diversas maneras para apoyar el desarrollo de la 
 	* proporcionar [asistencia técnica](https://www.reddit.com/r/Globasa/comments/11m6z37/globasa_website_volunteers/) con el desarrollo del sitio web o la administración de CMS.
 
 * Financiar gastos de mantenimiento y proyectos a través de:
-	* [Patreon](https://www.patreon.com/Globasa)
-  	* [Liberapay](https://liberapay.com/Globasa)
  	* [Paypal](https://www.paypal.com/paypalme/globayen)
