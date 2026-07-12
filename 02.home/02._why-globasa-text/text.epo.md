@@ -5,14 +5,15 @@ image_align: left
 ---
 
 <header>
-    <h1>Globasa</h1>  
-    <h2>Basa de Globayen</h2>  
+
+<h1>Globasa</h1>
+
+<h2>Basa de Globayen</h2>
+
 </header>
 
-### Globaso: La Lingvo de la Mondcivitano
+#### La Lingvo de la Mondcivitano
 
-Globaso estas la produkto de kompleksa penseksperimento. Ĝi antaŭvidas la lingvan rezulton de hipoteza scenaro per kiu 1000 homoj el la tuta mondo estas hazarde elektitaj por dumĉiame enloĝi insulon. Kiel aspektus la lingvo de tia komunumo ene de tri generacioj? Jen la gvida vizio de Globaso.
+Globaso estas la produkto de ellaborita pensa eksperimento. Ĝi imagis hipotezan scenaron, en kiu mil hazarde elektitaj individuoj el la tuta mondo libervole translokiĝas al neloĝata insulo. Kiel aspektus la vilaĝa lingvo post tri generacioj? Tio estis nia gvida vizio, el kiu malgranda sed vigla komunumo de Globaso-parolantoj kaj kunlaborantoj ekestis en la nuna jardeko.
 
-Post eksperimenta kaj evolua etapo de du jaroj, Globaso estis eldonita la 26-an de julio 2019 kun kompleta kerngramatiko kaj 1000 radikvortoj, preta por esti uzata en praktiko. Ekde tiam, Globaso spertis plun [disvolviĝon](https://www.globasa.net/epo/faq/changes-and-adjustments) per signifaj plibonigoj kaj zorgemaj rafinaĵoj kun la helpo kaj la kunlaboro de la helplingva komunumo, sed alie restis [relative stabila](https://www.reddit.com/r/Globasa/comments/qskclh/globasas_stability_comparison_of_original_globasa/) kaj fidela al sia vizio. Kun pli ol 2500 radikvortoj kaj pli ol 5500 totalaj vortaraj enskriboj, [kurso por komencantoj](https://xwexi.globasa.net/epo/leciono) kaj multe da legmaterialo, Globaso estas nuntempe en [Fazo 5](https://www.reddit.com/r/Globasa/comments/rt0tdl/fase_5/) de ĝia evolua kaj kreska etapo.
-
-La dezajno de Globaso estas ĉefe la laboro de lingvisto, tradukisto kaj spertulo pri lingva akiro kaj instruado de plenkreskuloj. Ĝi estis kreita specife por la averaĝa mondcivitano por esti kiel eble plej facila por lerni kaj uzi sen perdi klarecon kaj gradon de esprimkapablo. Ĝia dezajno, rememoriga pri la kreolaj lingvoj de la mondo, estas la rezulto de la sekvaj gvidprincipoj:
+La projekto Globaso estis lanĉita en 2019 de lingvisto, tradukisto kaj fakulo pri lingvoakirado kaj lingvoinstruado por plenkreskuloj. Ĝi estis kreita pensante pri la meza mondcivitano, por esti kiel eble plej facile lernebla kaj uzebla, sen oferi klarecon nek gradon de esprimkapablo. Ĝia dezajno, kiu memorigas pri la [kreolaj lingvoj](https://eo.wikipedia.org/wiki/Kreola_lingvo) de la mondo, estas la rezulto de la jenaj gvidaj principoj:

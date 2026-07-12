@@ -604,3 +604,8 @@ bateri &rarr; **bakuteri**
 jonlyoku &rarr; **conlyoku**   
 yomo &rarr; **yanmo**  
 bason &rarr; **basun**  
+parki &rarr; **parkin**  
+silikon &rarr; **silicyum**  
+adabu &rarr; **adebu**  
+
+**nenhar**, **nenton**, **nenyon**  &rarr; **wal**  

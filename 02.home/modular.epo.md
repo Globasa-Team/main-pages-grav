@@ -6,8 +6,8 @@ content:
         by: folder
         dir: asc
 body_classes: 'title-h1h2 header-transparent'
-menu: Home
-onpage_menu: false
+menu: Hejmpaĝo
+onpage_menu: '0'
 cache_enable: false
 ---
 
