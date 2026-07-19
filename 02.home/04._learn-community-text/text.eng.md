@@ -39,9 +39,9 @@ After an experimental and developmental stage of two years, Globasa was publishe
 
 Website pages relevant to Globasa's development:
 
-* [Globasa's guiding principles](/max/gidane-principi)
-* [Globasa's Stability](/max/andinya-de-globasa)
-* [Changes and Adjustments](/max/alogi-ji-lilalogi)
-* [Word Proposal Process](/max/proceso-fe-lexijeni)
-* [Word Selection Methodology](/max/metode-fe-lexiseleti)
-* [Globasa's History](/max/histori-de-globasa)
+* [Guiding principles](/max/gidane-principi)  
+* [Globasa's Stability](/max/andinya-de-globasa)  
+* [Globasa's History](/max/histori-de-globasa)  
+* [Changes and Adjustments](/max/alogi-ji-lilalogi)  
+* [Word Proposal Process](/max/proceso-fe-lexijeni)  
+* [Methodology for Lexical Development](/max/metode-fe-lexiseleti)  

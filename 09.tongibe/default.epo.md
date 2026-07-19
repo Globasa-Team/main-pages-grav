@@ -1,14 +1,14 @@
 ---
-title: Kontribuu
+title: Kontribui
 published: true
 visible: true
 ---
 
-# Kontribuu
+# Kiel Kontribui
 
 Vi povas kontribui por subteni la evoluon kaj kreskon de la komunumo de Globaso en diversaj manieroj.
 
-_Sendepende de via lertnivelo en Globaso, bonvolu [kontakti nin](https://www.globasa.net/eng/pimpan-swal/kontato), se vi ŝatus volontuli en la jena maniero:_
+_Sendepende de via lertnivelo en Globaso, bonvolu [kontakti nin](https://www.globasa.net/epo/kontato), se vi ŝatus volontuli en la jena maniero:_
 
 * provizu [teknikan helpon](https://www.reddit.com/r/Globasa/comments/11m6z37/globasa_website_volunteers/) pri la evoluigo de reteja etoso aŭ administrado de la CMS
 
@@ -18,13 +18,13 @@ _Komencantoj: Eksciu pri nia komunumo kaj komencu lerni kaj uzi Globason_
 * **Lernu kaj praktiku Globason en la diversaj forumoj, partoprenante konversaciojn pri diversaj temoj. Tio estas la plej grava kontribuo, kiun komencantoj povas fari por subteni la evoluon de kaj la lingvo kaj ĝia komunumo.**
 * [Reddit](https://www.reddit.com/r/Globasa/)
 * [Discord-Servilo de Globaso](https://discord.gg/JCaqAvapGR)
-* [Bluesky](https://bsky.app/search?q=%23globasa)
+* [Bluesky](https://bsky.app/profile/modestutopian.art/feed/aaapjfpuqwqmi)
 * [YouTube](https://www.youtube.com/results?search_query=globasa)
 * Prokrastu la publikigon de enhavo aŭ la proponadon de novaj vortoj, ĝis vi fariĝos pli lerta. Kvankam vi eble sentos la tenton tuj eksalti al kreivaj kontribuoj, atendi ĝis vi estas preta helpas malhelpi, ke la evoluo de la lingvo stagnu pro abundo da erarplena aŭ nenorma enhavo.
 
 _Mezniveluloj: Proponu novajn vortojn kaj disvolvu certajn specojn de enhavo taŭgajn por via nivelo:_
 
-* studu la [Procezon de Vortproponado](https://www.globasa.net/eng/max/proceso-fe-lexijeni) kaj la [Metodaron de Vortselektado](https://www.globasa.net/eng/max/metode-fe-lexiseleti), antaŭ ol proponi novajn radikvortojn en la subredito de Globaso
+* studu la [Procezon de Vortpropono](https://www.globasa.net/epo/max/proceso-fe-lexijeni) kaj la [Metodaron de Vortelekto](https://www.globasa.net/epo/max/metode-fe-lexiseleti), antaŭ ol proponi novajn radikvortojn en la subredito de Globaso
 * proponu derivitajn vortojn en la Discord-Servilo de Globaso
 * kreu memeojn
 * kreu vardezajnojn, certigante, ke la teksto estu provlegita de altnivelaj aŭ flue parolantaj personoj

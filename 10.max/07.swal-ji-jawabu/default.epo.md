@@ -1,8 +1,8 @@
 ---
-title: 'Demandoj k Respondoj'
+title: 'Demandoj k respondoj'
 ---
 
-# Demandoj kaj Respondoj
+# Demandoj kaj respondoj
 
 **D: Kial Globaso miksas vortojn laŭ la stilo de Loĵbano, precipe sinajn vortojn? Laŭ mi, pli sencas elekti unu formon, kiu rekte similas al unu lingvo kaj tamen restas rekonebla por parolantoj de aliaj lingvoj, ol loĵbaneca kunmiksado de vortoj, kiu estos malklare rekonebla por multaj homoj, sed rekte por neniu.**
 
@@ -18,6 +18,6 @@ Kial do ne iri ĝis la fino kaj anstataŭe elekti, ekzemple, "iken" aŭ "ijyen",
 
 Krome, la miksado de vortoj kongruas kun la _gvida vizio_ de Globaso (la insula pensa eksperimento). Rigardu ĝin tiel. Kiam ni diras "naturalisma", kion tio signifas? Tipe oni komprenas tion kiel tion, kion vi sugestas, aŭ kiel tion, kion faras Lidepla. Tamen, rilate al la insula pensa eksperimento, naturalisma rezulto ne estus, ke naturlingvaj formoj nepre restus netuŝitaj. En natura procezo de kreoliĝo, formoj emus ŝanĝiĝi, kaj do el tiu vidpunkto, elekti netuŝitajn naturlingvajn formojn estas fakte sufiĉe artefarita.
 
-Unu lasta kialo por permesi miksitajn formojn estas, ke tiel ni povas pli facile eviti certajn minimumajn parojn, ĉar ni havas eĉ pli grandan elektopovon dum la difinado de vortformoj. Tio eĉ foje povus rezultigi, ke naturlingva vorto restas "netuŝita" por eviti problema minimuma paro.
+Unu lasta kialo por permesi miksitajn formojn estas, ke tiel ni povas pli facile eviti certajn minimumajn parojn, ĉar ni havas eĉ pli grandan elektopovon dum la difinado de vortformoj. Tio eĉ foje povus rezultigi, ke naturlingva vorto restas "netuŝita" por eviti probleman minimuman paron.
 
 Cetere, en kelkaj kazoj "miksitaj vortoj" hazarde koincidas laŭ formo kun la vorto en lingvo de la sama familio kiel la ĉefaj fontlingvoj. Ekzemple, la vorto **salom**, kiu estas miksita el la araba "salam" kaj la hebrea "shalom", estas identa al la vorto kun la sama signifo en la uzbeka.

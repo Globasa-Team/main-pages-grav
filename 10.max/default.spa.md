@@ -1,5 +1,6 @@
 ---
 title: Más
+child_type: default
 content:
     items:
         - '@ self.children'
@@ -9,13 +10,12 @@ content:
         dir: desc
     pagination: true
     url_taxonomy_filters: true
-child_type: default
 ---
 
 # Más
 * [Principios rectores](gidane-principi)
-* [Historia del Globasa](histori-de-globasa)
 * [Estabilidad del Globasa](andinya-de-globasa)
+* [Historia del Globasa](histori-de-globasa)
 * [Cambios y ajustes](alogi-ji-lilalogi)
 * [Procedimiento de propuesta de palabras](proceso-fe-lexijeni)
 * [Metodología de desarrollo léxico](metode-fe-lexiseleti)

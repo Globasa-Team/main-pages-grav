@@ -1,8 +1,8 @@
 ---
-title: 'Word Selection Methodology'
+title: 'Methodology for Lexical Development'
 ---
 
-## Methodology for Lexical Development in Globasa
+## Methodology for Lexical Development
 
 **Preliminary Step**: Before rushing to expand Globasa's dictionary with a new root word, determine if the desired word can potentially be expressed through an already established root word or through a word formation method (affixing or compounding). Based on that determination, decide whether or not to propose a new root word.
 
@@ -28,7 +28,7 @@ The following caveats must be kept in mind during the source selection process. 
 
 -   Whenever possible, avoid _any_ minimal pair: Whenever there is more than one more or less equal _word-form_ option, choose the form that does not create a minimal pair.
 
--   Whenever possible, avoid one-syllable words and words longer than three syllables: Whenever there is more than one more or less equal _source_ option, choose the source with two or three syllables, or add an [_a posteriori_](/pimpan-swal/metode-fe-lexiseleti#a_posteriori) vowel to produce a two-syllable word. Also, keep in mind that Globasa favors three-syllable words over two-syllable words.  
+-   Whenever possible, avoid one-syllable words and words longer than three syllables: Whenever there is more than one more or less equal _source_ option, choose the source with two or three syllables, or add an [_a posteriori_](/max/metode-fe-lexiseleti#a_posteriori) vowel to produce a two-syllable word. Also, keep in mind that Globasa favors three-syllable words over two-syllable words.  
 
 -   Whenever possible, avoid words that appear to be affixed: Whenever there is more than one more or less equal _word-form_ option, choose the form that does not appear to be affixed.
 

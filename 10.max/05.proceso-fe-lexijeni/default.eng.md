@@ -4,7 +4,7 @@ title: 'Word Proposal Process'
 
 ## Word Proposal Process
  
-Any Globasa speaker may propose new root words using either the [Globasa subreddit](https://www.reddit.com/r/Globasa/) or the [Globasa Wikia](https://globasa.fandom.com/wiki/Proposed_words). Any word proposal originating in the Wikia must be moved to subreddit for discussion.
+Any Globasa speaker may propose new root words using the [Globasa subreddit](https://www.reddit.com/r/Globasa/). 
 
 The word proposal and selection process is as follows:
 

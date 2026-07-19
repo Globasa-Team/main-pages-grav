@@ -1,9 +1,9 @@
 ---
-title: 'Gvidaj Principoj'
+title: 'Gvidaj principoj'
 ---
 
 <header>
-<h2>Gvidaj Principoj</h2>
+<h2>Gvidaj principoj</h2>
 </header>
 
 La dezajno de Globaso, memoriga pri la [kreolaj](https://eo.wikipedia.org/wiki/Kreola_lingvo) lingvoj de la mondo, estas la rezulto de la jenaj gvidaj principoj:
@@ -42,7 +42,7 @@ _Pravigo: Plej multaj, se ne ĉiuj, el la ceteraj malpli vaste parolataj lingvoj
 
 ### Optimuma Simpleco kaj Ekvilibro
 
-Konstruante mondan lingvon, kiu estas facile lernebla kaj uzebla por kaj la parolanto kaj la aŭskultanto, la ĝenerala konsento estas celi simplecon. Tamen, tro puŝita, simpleco bedaŭrinde povas rezultigi mankon de funkcieco, nepraktikecon aŭ eĉ pli grandan malfacilecon. La kialo de tiu paradokso ŝuldiĝas al la jenaj faktoj:
+Kiam oni konstruas mondan lingvon, kiu estas facile lernebla kaj uzebla por kaj la parolanto kaj la aŭskultanto, la ĝenerala konsento estas celi simplecon. Tamen, tro puŝita, simpleco bedaŭrinde povas rezultigi mankon de funkcieco, nepraktikecon aŭ eĉ pli grandan malfacilecon. La kialo de tiu paradokso ŝuldiĝas al la jenaj faktoj:
 
 * Kio estas facila por la parolanto ne ĉiam kaj nepre estas facila por la aŭskultanto.
 * Kio estas facila por skriba komunikado ne ĉiam kaj nepre estas facila por parola komunikado.
@@ -69,7 +69,7 @@ _Pravigo: Same kiel supre._
 
 **[Analiza](https://eo.wikipedia.org/wiki/Analiza_lingvo) aŭ [sinteza](https://eo.wikipedia.org/wiki/Lingva_tipologio#Sintezaj_lingvoj)? Globaso, tre simile al la kreolaj lingvoj de la mondo, kliniĝas al la pli simpla, analiza flanko de la spektro, sed aldonas ĝuste sufiĉe da afiksoj por eviti la kaptilojn de la ekstremaĵoj.**
 
-* Analiza3
+* Analiza
      * Uzo de funkciaj vortoj kaj strikta vortordo kiel la ĉefa metodo por marki gramatikajn rilatojn
      * Radikvortoj ĉiam konservas sian formon
 * Sinteza (per [aglutinado](https://eo.wikipedia.org/wiki/Aglutina_lingvo) anstataŭ [fleksio](https://eo.wikipedia.org/wiki/Lingva_tipologio#Aglutinaj_kaj_fandaj_lingvoj))

@@ -1,8 +1,8 @@
 ---
-title: 'Ŝanĝoj kaj Alĝustigoj'
+title: 'Ŝanĝoj kaj alĝustigoj'
 ---
 
-# Ŝanĝoj kaj Alĝustigoj
+# Ŝanĝoj kaj alĝustigoj
 
 ## Fazo 1
 
@@ -101,7 +101,7 @@ nevidebla: **nobeokobil** (nevidebla) &rarr; **nookobel**
 
 Globaso ĝisdatigis sian fonologion en septembro 2019 por enkonduki pli da rekonebleco al internaciaj vortoj sen multe pli komplikigi la fonologion.
 
-La konsonanto **-h** ne plu estas permesata en vortfina pozicio. La konsonantoj permesataj en vortfina pozicio nun estas la jenaj naŭ: **-f, -l, -m, -n, -r, -s, -w-, -x, -y**.
+La konsonanto **-h** ne plu estas permesata en vortfina pozicio. La konsonantoj permesataj en vortfina pozicio nun estas la jenaj naŭ: **-f, -l, -m, -n, -r, -s, -w, -x, -y**.
 
 Ene de vorto, ĉiuj unuopaj konsonantoj nun estas permesataj en silabfina pozicio. La jenaj radikvortoj estis rezulte alĝustigitaj:
 
@@ -333,9 +333,9 @@ Aldonoj:
 -   Prepozicio **cis** (ĉi-flanke de) kiel la malo de **tras**
 -   Prefikso **nen-** (mal-)
 -   Prepozicio **nenhar** (sen) anstataŭigita per **wal**
--   [Verba modo dupul](https://www.reddit.com/r/Globasa/comments/huuve4/grammar_addition_continuative_aspect_dupul/)
+-   [Verba aspekto dupul](https://www.reddit.com/r/Globasa/comments/huuve4/grammar_addition_continuative_aspect_dupul/)
 
-ji... ji... &rarr; **iji.... ji**   
+ji... ji... &rarr; **iji... ji**   
 or... or... &rarr; **oro... or**   
 nor... nor... &rarr; **noro... nor**   
 kam... kam... &rarr; **kama... kam**

@@ -4,7 +4,7 @@ published: true
 visible: true
 ---
 
-# Contribute
+# How to Contribute
 
 You can contribute to support the development and growth of Globasa's community in a variety of ways. 
 
@@ -18,13 +18,13 @@ _Beginning speakers: Learn about our community and start learning and using Glob
 * **Learn and practice Globasa in the various forums by engaging in conversations on a variety of topics. This is the most important contribution beginners can make to sustain the development of both the language and its community.**
 	* [Reddit](https://www.reddit.com/r/Globasa/)  
 	* [Globasa Discord Server](https://discord.gg/JCaqAvapGR) 
-	* [Bluesky](https://bsky.app/search?q=%23globasa)  
+	* [Bluesky](https://bsky.app/profile/modestutopian.art/feed/aaapjfpuqwqmi)  
 	* [YouTube](https://www.youtube.com/results?search_query=globasa)
 * Hold off on publishing content or proposing new words until you become more proficient. Although you may feel tempted to jump straight into creative contributions, waiting until you are ready helps prevent the language’s development from stagnating due to an abundance of error-laden or non-standard content.
 
 _Intermediate speakers: Propose new words and develop certain types of content appropriate for your level:_
  
-* study the [Word Proposal Process](https://www.globasa.net/eng/max/proceso-fe-lexijeni) and [Word Selection Methodology](https://www.globasa.net/eng/max/metode-fe-lexiseleti) before proposing new root words on the Globasa subreddit
+* study the [Word Proposal Process](https://www.globasa.net/eng/max/proceso-fe-lexijeni) and [Methodology for Lexical Development](https://www.globasa.net/eng/max/metode-fe-lexiseleti) before proposing new root words on the Globasa subreddit
 * propose derived words on the Globasa Discord Server
 * create memes
 * create merch designs, while being sure to have the text proofread by advanced or fluent speakers

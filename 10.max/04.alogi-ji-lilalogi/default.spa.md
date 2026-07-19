@@ -101,7 +101,7 @@ invisible: **nobeokobil** (invisible) &rarr; **nookobel**
 
 Globasa actualizó su fonología en septiembre del 2019 para introducir mayor reconocibilidad de palabras internacionales sin complicar demasiado la fonología.
 
-La consonante **-h** ya no se permite en la posición final de palabra. Las consonantes permitidas en posición final de palabra ahora son las nueve siguientes: **-f, -l, -m, -n, -r, -s, -w-, -x, -y**.
+La consonante **-h** ya no se permite en la posición final de palabra. Las consonantes permitidas en posición final de palabra ahora son las nueve siguientes: **-f, -l, -m, -n, -r, -s, -w, -x, -y**.
 
 Dentro de una palabra, ahora se permite cualquier consonante individual en posición final de sílaba. Las siguientes palabras raíz se han ajustado como resultado:
 
@@ -333,9 +333,9 @@ Adiciones:
 - Preposición **cis** (de este lado de) como lo contrario de **tras**
 - Prefijo **nen-** (des-)
 - Preposición **nenhar** (sin) reemplazada por **wal**
-- [Modo verbal dupul](https://www.reddit.com/r/Globasa/comments/huuve4/grammar_addition_continuative_aspect_dupul/)
+- [Aspecto verbal dupul](https://www.reddit.com/r/Globasa/comments/huuve4/grammar_addition_continuative_aspect_dupul/)
 
-ji... ji... &rarr; **iji.... ji**  
+ji... ji... &rarr; **iji... ji**  
 o... o... &rarr; **oro... or**  
 nor... nor... &rarr; **noro... nor**  
 kam... kam... &rarr; **kama... kam**  

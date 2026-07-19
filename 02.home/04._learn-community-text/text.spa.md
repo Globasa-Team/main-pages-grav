@@ -39,9 +39,9 @@ Tras dos años de experimentación y desarrollo, Globasa se publicó el 26 de ju
 
 Páginas web relevantes en torno al desarrollo de Globasa:
 
-* [Principios rectores de Globasa](/max/gidane-principi)
-* [Estabilidad de Globasa](/max/andinya-de-globasa)
-* [Cambios y ajustes](/max/alogi-ji-lilalogi)
-* [Proceso de propuesta de palabras](/max/proceso-fe-lexijeni)
-* [Metodología de selección de palabras](/max/metode-fe-lexiseleti)
-* [Historia de Globasa](/max/histori-de-globasa)
+* [Principios rectores](/max/gidane-principi)  
+* [Estabilidad del Globasa](/max/andinya-de-globasa)  
+* [Historia del Globasa](/max/histori-de-globasa)  
+* [Cambios y ajustes](/max/alogi-ji-lilalogi)  
+* [Proceso de propuesta de palabras](/max/proceso-fe-lexijeni)  
+* [Metodología de selección de palabras](/max/metode-fe-lexiseleti)  

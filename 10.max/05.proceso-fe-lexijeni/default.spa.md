@@ -4,7 +4,7 @@ title: 'Procedimiento de propuesta de palabras'
 
 ## Procedimiento de propuesta de palabras
  
-Cualquier hablante de Globasa puede proponer nuevas palabras raíz mediante el [subreddit de Globasa](https://www.reddit.com/r/Globasa/) o el [Wikia de Globasa](https://globasa.fandom.com/wiki/Proposed_words). Cualquier propuesta de palabra que se origine en la Wikia debe trasladarse al subreddit para su discusión.
+Cualquier hablante de Globasa puede proponer nuevas palabras raíz mediante el [subreddit de Globasa](https://www.reddit.com/r/Globasa/). 
 
 Los procedimientos de propuesta y selección de palabras son los siguientes:
 

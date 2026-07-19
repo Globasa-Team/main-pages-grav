@@ -4,8 +4,8 @@ title: Contacto
 
 <h1>Contáctese con el equipo de Globasa</h1>
 <form action="https://formspree.io/maylyonr" method="POST" class="w3-container" >
+    <input type="hidden" name="subject" value="Feedback: {{ user_subject }} {{ topic }}" />
     <input type="hidden" name="Source" value="Main Globasa Website" />
-    <input type="hidden" name="subject" value="Feedback: {{ user_subject }} {{topic}}" />
     
     <h3>Tema</h3>
     <input type="radio" name="topic" id="topic-content" value="Website content error">

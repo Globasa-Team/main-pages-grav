@@ -1,8 +1,8 @@
 ---
-title: 'Metodaro por Leksika Selektado'
+title: 'Metodaro por leksika evoluigo'
 ---
 
-## Metodaro por Leksika Selektado en Globaso
+## Metodaro por leksika evoluigo
 
 **Antaŭa paŝo**: Antaŭ ol rapidi pligrandigi la vortaron de Globaso per nova radikvorto, determini ĉu la dezirata vorto eble esprimeblas per jam establita radikvorto aŭ per vortfarada metodo (afiksado aŭ kunmetado). Surbaze de tiu determino, decidi ĉu proponi novan radikvorton aŭ ne.
 
@@ -28,7 +28,7 @@ La jenaj avertoj estu konsiderataj dum la procezo de fontelekto. Kiam necese, on
 
 -   Kiam eble, eviti _iun ajn_ minimuman paron: kiam ekzistas pli ol unu proksimume egalvalora opcio de _vortformo_, elekti la formon kiu ne kreas minimuman paron.
 
--   Kiam eble, eviti unusilabajn vortojn kaj vortojn pli longajn ol tri silaboj: kiam ekzistas pli ol unu proksimume egalvalora opcio de _fonto_, elekti la fonton kun du aŭ tri silaboj, aŭ aldoni [_a posteriori_](/pimpan-swal/metode-fe-lexiseleti#a_posteriori) vokalon por produkti dusilaban vorton. Ankaŭ memoru ke Globaso favoras trisilabajn vortojn super dusilabaj vortoj.  
+-   Kiam eble, eviti unusilabajn vortojn kaj vortojn pli longajn ol tri silaboj: kiam ekzistas pli ol unu proksimume egalvalora opcio de _fonto_, elekti la fonton kun du aŭ tri silaboj, aŭ aldoni [_a posteriori_](/max/metode-fe-lexiseleti#a_posteriori) vokalon por produkti dusilaban vorton. Ankaŭ memoru ke Globaso favoras trisilabajn vortojn super dusilabaj vortoj.  
 
 -   Kiam eble, eviti vortojn kiuj ŝajnas afiksitaj: kiam ekzistas pli ol unu proksimume egalvalora opcio de _vortformo_, elekti la formon kiu ne ŝajnas afiksita.
 
@@ -117,13 +117,13 @@ En ĉi tiu paŝo, oni decidu ĉu la nova radiko estos substantiva/verba vorto a�
 
     -   [Avertoj](https://www.reddit.com/r/Globasa/comments/phwnv1/naturalistic_final_vowels_to_add_or_not_to_add/):
 
-        -   Averto 1: Se la vorto konsistus el kvar aŭ pli da silaboj, la vokalo ne estas aldonata se ekzistas almenaŭ unu lingvo kiu havas la vorton finiĝanta per konsonanto: [**estrutur**](https://menalari.globasa.net/eng/lexi/estrutur), ktp. 
-            -   Tamen, substantivoj/verboj kiuj finiĝas per _-ation/-ate_ en la angla ĉiam aldonas **-a** en Globaso, sendepende de la vortlongo: [**diskrimina**](https://menalari.globasa.net/eng/lexi/diskrimina), ktp. 
+        -   Averto 1: Se la vorto konsistus el kvar aŭ pli da silaboj, la vokalo ne estas aldonata se ekzistas almenaŭ unu lingvo kiu havas la vorton finiĝantan per konsonanto: [**estrutur**](https://menalari.globasa.net/epo/lexi/estrutur), ktp. 
+            -   Tamen, substantivoj/verboj kiuj finiĝas per _-ation/-ate_ en la angla ĉiam aldonas **-a** en Globaso, sendepende de la vortlongo: [**diskrimina**](https://menalari.globasa.net/epo/lexi/diskrimina), ktp. 
             -   Krome, vortoj kiuj finiĝas per _-ia/-io_ en la hispana, per _-aire/-oire_ en la franca kaj per _-y_ en la angla tipe finiĝas per **-i** en Globaso sendepende de la vortlongo: **ordinari**, **teritori**, **sekretari**, ktp.   
         -   Averto 2: En kelkaj elektitaj, tre oftaj vortoj, fina vokalo ne estas aldonata por teni la vorton je du silaboj: **eskol**, **alim**, **muhim**, ktp. Ĉi tio nun estas fermita averto, ĉar ĉiuj sufiĉe oftaj vortoj jam estas aldonitaj.
-        -   Averto 3: Se la etimologio de vorto inkluzivas ok aŭ pli da lingvoj en kiuj la koncerna vorto finiĝas per konsonanto, la Globaso-vorto _ne_ aldonas finan vokalon. Ekzemple, vidu [**tufan**](https://menalari.globasa.net/eng/lexi/tufan) kaj [**salun**](https://menalari.globasa.net/eng/lexi/salun). Komparu kun [**safe**](https://menalari.globasa.net/eng/lexi/safe), [**taru**](https://menalari.globasa.net/eng/lexi/taru) kaj [**jusu**](https://menalari.globasa.net/eng/lexi/jusu). 
+        -   Averto 3: Se la etimologio de vorto inkluzivas ok aŭ pli da lingvoj en kiuj la koncerna vorto finiĝas per konsonanto, la Globaso-vorto _ne_ aldonas finan vokalon. Ekzemple, vidu [**tufan**](https://menalari.globasa.net/epo/lexi/tufan) kaj [**salun**](https://menalari.globasa.net/epo/lexi/salun). Komparu kun [**safe**](https://menalari.globasa.net/epo/lexi/safe), [**taru**](https://menalari.globasa.net/epo/lexi/taru) kaj [**jusu**](https://menalari.globasa.net/epo/lexi/jusu). 
 
-    -   _A priori_ vokalo aldoniĝu nur se la lasta konsonanto estas tia, kian la fonotaktikaj reguloj ne permesas en vortfina pozicio (_b, c, d, g, h, j, k, p, t, v, z_), aŭ por krei dusilaban vorton se la fontvorto konsistas el unu silabo (ekzemple, vidu [**pole**](https://menalari.globasa.net/eng/lexi/pole), kiu aldonas **-e** por eviti minimumajn parojn kun **bol** kaj **pul**). Por elekti _a priori_ vokalon, uzu la jenajn gvidliniojn:
+    -   _A priori_ vokalo aldoniĝu nur se la lasta konsonanto estas tia, kian la fonotaktikaj reguloj ne permesas en vortfina pozicio (_b, c, d, g, h, j, k, p, t, v, z_), aŭ por krei dusilaban vorton se la fontvorto konsistas el unu silabo (ekzemple, vidu [**pole**](https://menalari.globasa.net/epo/lexi/pole), kiu aldonas **-e** por eviti minimumajn parojn kun **bol** kaj **pul**). Por elekti _a priori_ vokalon, uzu la jenajn gvidliniojn:
 
         -   Hindeŭropaj (latinidaj, slavaj, ĝermanaj, la hindia, la persa): **-i** por anglaj verboj, alie **-e**.
         -   Ĉiuj aliaj (la mandarena, japana, korea kaj vjetnama; la araba; la indonezia kaj filipina): **-u**.
@@ -174,4 +174,4 @@ Vortoj devenantaj el la mandarena estas tipe miksataj kun iliaj japanaj, koreaj 
 
 -    La diftongo /aj/ estas foje reduktata al ⟨e⟩, kiel videblas en la svahila: **rehani**, ktp.  
 
--    Krom se ekzistas malsama naturisma opcio apogata de la persa, svahila, turka, indonezia aŭ hindia, substantivaj/verbaj vortoj devenantaj el la araba tipe finiĝas per **-u**, kiel videblas en la prezenca tempo de [arabaj verboj](https://www.reddit.com/r/Globasa/comments/py1a17/final_vowels_added_based_recently_established/).
+-    Krom se ekzistas malsama naturalisma opcio apogata de la persa, svahila, turka, indonezia aŭ hindia, substantivaj/verbaj vortoj devenantaj el la araba tipe finiĝas per **-u**, kiel videblas en la prezenca tempo de [arabaj verboj](https://www.reddit.com/r/Globasa/comments/py1a17/final_vowels_added_based_recently_established/).
