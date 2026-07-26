@@ -13,7 +13,7 @@ content:
 ---
 
 # More
-* [Guiding Principles](gidane-principi)
+* [Design Principles](diseno-principi)
 * [Globasa's Stability](andinya-de-globasa)
 * [Globasa's History](histori-de-globasa)
 * [Changes and Adjustments](alogi-ji-lilalogi)

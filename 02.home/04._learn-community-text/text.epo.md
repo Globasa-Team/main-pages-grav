@@ -45,7 +45,7 @@ Post eksperimenta kaj evoluiga etapo de du jaroj, Globaso estis publikigita la 2
 
 Retejaj paĝoj rilataj al la evoluo de Globaso:
 
-* [Gvidaj principoj](/max/gidane-principi)
+* [Dezajnaj principoj](/max/diseno-principi)
 * [Stabileco de Globaso](/max/andinya-de-globasa)
 * [Historio de Globaso](/max/histori-de-globasa)
 * [Ŝanĝoj kaj alĝustigoj](/max/alogi-ji-lilalogi)

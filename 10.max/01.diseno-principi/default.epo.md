@@ -1,9 +1,9 @@
 ---
-title: 'Gvidaj principoj'
+title: 'Dezajnaj principoj'
 ---
 
 <header>
-<h2>Gvidaj principoj</h2>
+<h2>Dezajnaj principoj</h2>
 </header>
 
 La dezajno de Globaso, memoriga pri la [kreolaj](https://eo.wikipedia.org/wiki/Kreola_lingvo) lingvoj de la mondo, estas la rezulto de la jenaj gvidaj principoj:

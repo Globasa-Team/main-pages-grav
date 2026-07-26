@@ -1,5 +1,5 @@
 ---
-title: 'Globasa''s History'
+title: "Globasa's History"
 ---
 
 ## History of Globasa prior to its publication in July, 2019

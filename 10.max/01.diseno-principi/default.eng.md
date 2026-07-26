@@ -1,10 +1,9 @@
 ---
-title: 'Guiding Principles'
-menu: 'Guiding Principles'
+title: 'Design Principles'
 ---
 
 <header>
-<h2>Guiding Principles</h2>
+<h2>Design Principles</h2>
 </header>
 
 Globasa's design, reminiscent of the world's [creole](https://en.wikipedia.org/wiki/Creole_language) languages, is the result of the following guiding principles:

@@ -39,7 +39,7 @@ After an experimental and developmental stage of two years, Globasa was publishe
 
 Website pages relevant to Globasa's development:
 
-* [Guiding principles](/max/gidane-principi)  
+* [Design principles](/max/gidane-principi)  
 * [Globasa's Stability](/max/andinya-de-globasa)  
 * [Globasa's History](/max/histori-de-globasa)  
 * [Changes and Adjustments](/max/alogi-ji-lilalogi)  
