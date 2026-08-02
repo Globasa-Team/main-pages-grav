@@ -6,10 +6,6 @@ cache_enable: false
 
 #### Lernorimedoj
 
-Rapida superrigardo:
-
-* [Konciza Referenca Gramatiko](https://en.wikiversity.org/wiki/User:Sir_Beluga/Globasa)
-
 Komencu lerni:
 
 * [500 plej oftaj radikvortoj kaj afiksoj](https://menalari.globasa.net/epo/lexilari/500%20maxim%20pimpan%20genulexi%20ji%20fikso): Regu ĉi tiun liston por atingi bazan fluecon kaj kompreni pli ol 90% de la vortoj en tipaj Globaso-tekstoj.
