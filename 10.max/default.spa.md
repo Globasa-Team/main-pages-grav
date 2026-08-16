@@ -13,7 +13,7 @@ content:
 ---
 
 # Más
-* [Principios rectores](gidane-principi)
+* [Principios de diseño](diseno-principi)
 * [Estabilidad del Globasa](andinya-de-globasa)
 * [Historia del Globasa](histori-de-globasa)
 * [Cambios y ajustes](alogi-ji-lilalogi)

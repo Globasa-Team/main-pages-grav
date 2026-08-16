@@ -1,8 +1,8 @@
 ---
-title: 'Principios rectores'
+title: 'Principios de diseño'
 ---
 
-# Principios rectores del Globasa
+# Principios de diseño del Globasa
 
 El diseño de Globasa, que recuerda a los idiomas [criollos](https://es.wikipedia.org/wiki/Lengua_criolla) del mundo, es el resultado de los siguientes principios rectores:
 

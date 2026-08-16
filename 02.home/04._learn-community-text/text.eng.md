@@ -31,15 +31,15 @@ Join us to ask questions, connect with the community, and start using Globasa!
 * [Bluesky](https://bsky.app/): Find us and our Globasa-language posts by doing a #Globasa search. 
 * [Globasa Discord Server](https://discord.gg/JCaqAvapGR): This server is devoted entirely to our community. It's the most active discussion platform and includes multiple Globasa-only channels for chatting on a variety of topics. 
 * [Auxlang Discord Server](https://discord.gg/tyYHheM): The Globasa channel of the Auxlang Discord server primarily includes updates on Globasa's development. Find the #globasa channel under the 1.2. WORLDWIDE VOCABULARY section.
-* [Telegram](https://t.me/+D4HjZQpQqXZ1vLMS): This chatroom is the least active but ocassionally has members chatting in Globasa or discussing Globasa's development.
+* [Telegram](https://t.me/+D4HjZQpQqXZ1vLMS): This chatroom is the least active but occasionally has members chatting in Globasa or discussing Globasa's development.
 
 #### Development
 
-After an experimental and developmental stage of two years, Globasa was published on July 26th, 2019 with a complete core grammar and 1,000 root words, ready to be put into practice. Since then, Globasa has undergone further [development](https://www.globasa.net/eng/max/alogi-ji-lilalogi) with the help and collaboration of the auxlang community, but has otherwise remained [relatively stable](https://www.reddit.com/r/Globasa/comments/qskclh/globasas_stability_comparison_of_original_globasa/) and true to its vision. With over 9,000 total dictionary entries, a [beginner's course](https://xwexi.globasa.net/eng/darsu) and plenty of reading material, Globasa is currently in [Phase 6](https://www.reddit.com/r/Globasa/comments/15a8861/fase_6/) of its developmental and growth stage.
+After an experimental and developmental stage of two years, Globasa was published on July 26, 2019 with a complete core grammar and 1,000 root words, ready to be put into practice. Since then, Globasa has undergone further [development](/max/alogi-ji-lilalogi) with the help and collaboration of the auxlang community, but has otherwise remained [relatively stable](https://www.reddit.com/r/Globasa/comments/qskclh/globasas_stability_comparison_of_original_globasa/) and true to its vision. With over 9,000 total dictionary entries, a [beginner's course](https://xwexi.globasa.net/eng/darsu) and plenty of reading material, Globasa is currently in [Phase 6](https://www.reddit.com/r/Globasa/comments/15a8861/fase_6/) of its developmental and growth stage.
 
 Website pages relevant to Globasa's development:
 
-* [Design principles](/max/gidane-principi)  
+* [Design principles](/max/diseno-principi)  
 * [Globasa's Stability](/max/andinya-de-globasa)  
 * [Globasa's History](/max/histori-de-globasa)  
 * [Changes and Adjustments](/max/alogi-ji-lilalogi)  
