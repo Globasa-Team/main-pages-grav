@@ -35,7 +35,7 @@ _Altnivelaj kaj flue parolantaj: Proponu novajn vortojn kaj disvolvu ajnan speco
 * verku originalajn tekstojn en Globaso kaj [provlegu](https://www.reddit.com/r/Globasa/comments/1qqlq7y/proofreading/) vian propran verkon
 * traduku tekstojn kaj provlegu vian propran verkon
 * kreu [YouTube-videojn](https://www.youtube.com/results?search_query=globasa) en Globaso
-* traduku la retejon de Globaso al via lingvo per provlegado. Ni nuntempe laboras pri la **Esperanta** traduko kaj ankoraŭ bezonas volontulojn.
+* provlegu la tradukon de la retejo de Globaso en vian lingvon
 
 _Financu proprapoŝajn elspezojn kaj projektojn per:_
 

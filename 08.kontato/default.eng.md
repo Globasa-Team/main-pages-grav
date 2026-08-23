@@ -21,7 +21,8 @@ title: Contact
     <label><h3>Subject</h3></label>
     <input type="text" name="user_subject" class="" >
     
-<label><h3>Your message:</h3> <textarea name="message" class="" style="width: 100%; height: 6em;"></textarea> </label>
+    <label><h3>Your message:</h3></label>
+    <textarea name="message" class="" style="width: 100%; height: 6em;"></textarea>
 
     <div class="feedbackSubmit">
     <button type="submit" class="">Send</button>

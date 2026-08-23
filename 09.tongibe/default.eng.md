@@ -35,7 +35,7 @@ _Advanced and fluent speakers: Propose new words and develop any type of content
 * write original texts in Globasa and [proofread](https://www.reddit.com/r/Globasa/comments/1qqlq7y/proofreading/) your own work
 * translate texts and proofread your own work
 * create [YouTube videos](https://www.youtube.com/results?search_query=globasa) in Globasa
-* translate the Globasa website into your language through proofreading. We are currently working on the **Esperanto** translation and still need volunteers. 
+* proofread the translation of the Globasa website into your language
 	
 _Fund out-of-pocket expenses and projects via:_
  	* [Paypal](https://www.paypal.com/paypalme/globayen)
