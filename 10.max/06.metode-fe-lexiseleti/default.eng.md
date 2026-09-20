@@ -20,7 +20,7 @@ title: 'Methodology for Lexical Development'
 
 The following caveats must be kept in mind during the source selection process. Whenever necessary, an effort should be made to adapt word forms based on the caveats below using the most widely international etymological source. However, if this is not possible, a less widely international source should be used instead.  
 
--   _Never_ adopt minimal pairs with _v_ and _w_, _s_ and _z_ or word-final position _m_ and _n_.
+-   _Never_ adopt minimal pairs with _v_ and _w_, _s_ and _z_ or _m_ and _n_ in word-final position.
 
 -   Unless there is absolutely no other option and it has been thoroughly investigated for potential issues with affixed words, _never_ adopt a minimal pair with plus/minus a consonant or vowel at the beginning/end of words.
 
@@ -61,9 +61,9 @@ The following caveats must be kept in mind during the source selection process. 
 
 ## Determining Semantics of the Word
 
-In this step, a determination should be made as to whether the new root will be a noun/verb word or an adj/adv word. Other considerations should be whether the new root will denote a person or tool, or whether the word denoting a person or tool will be derived out of the new root. 
+In this step, a determination should be made as to whether the new root will be a noun/verb word or an adj/adv word. Other considerations should be whether the new root will denote a person or tool, or whether the word denoting a person or tool will be derived from the new root. 
 
--	Part of speech is typically determined by which appears to be more useful (i.e., more frequently used in practice).
+-	Part of speech is typically determined by which one appears to be more useful (i.e., more frequently used in practice).
 
 -	In some cases, the part of speech that seems the most useful isn't well supported by the source languages, in which case, the part of speech is selected based on the greatest support in the source languages.
 
@@ -83,7 +83,7 @@ In this step, a determination should be made as to whether the new root will be 
         -	**askeri** (army) -- **askeriyen** (soldier)  
         -	**senato** (senate) -- **senatoyen** (senator)  
  
-    -	_establisment_  
+    -	_establishment_  
         -	**banko** (bank) -- **bankoyen** (banker)  
         -	**eskol** (school) -- **eskolkef** (principal)   
         
@@ -107,7 +107,7 @@ In this step, a determination should be made as to whether the new root will be 
 
     -   Examples of _a posteriori_ final vowels: Spanish words ending in _-o_ or _-a_, Swahili words ending in _-i_ or _-u_, or Japanese words ending in _-u_.
     -   [Caveats](https://www.reddit.com/r/Globasa/comments/phwnv1/naturalistic_final_vowels_to_add_or_not_to_add/):
-        -   Caveat 1: If the word would consist of four of more syllables, the vowel is not added if there is at least one language that has the word ending in a consonant: [**estrutur**](https://menalari.globasa.net/eng/lexi/estrutur), etc. 
+        -   Caveat 1: If the word would consist of four or more syllables, the vowel is not added if there is at least one language that has the word ending in a consonant: [**estrutur**](https://menalari.globasa.net/eng/lexi/estrutur), etc. 
             -   However, noun/verbs that end in _-ation/-ate_ in English always add **-a** in Globasa, regardless of word length: [**diskrimina**](https://menalari.globasa.net/eng/lexi/diskrimina), etc. 
             -   In addition, words that end in _-ia/-io_ in Spanish, in _-aire/-oire_ in French and in _-y_ in English typically end in **-i** in Globasa regardless of word length: **ordinari**, **teritori**, **sekretari**, etc.   
         -   Caveat 2: In a few select, very common words, a final vowel is not added in order to keep the word at two syllables: **eskol**, **alim**, **muhim**, etc. This is now a closed caveat, since all sufficiently common words have been added.
@@ -128,7 +128,7 @@ In this step, a determination should be made as to whether the new root will be 
 
 -    This rule of thumb is especially important when it comes to the way vowels are rendered in languages that have borrowed European words via English. For example, the word for _rum_ is rendered as /ram/ in many languages, as an approximation of English /rʌm/. In spite of this /a/ being more prevalent, Globasa retains ⟨u⟩ in the original spelling: **rum**. 
 
--    Words that end in [_-tion_ or _-(s)sion_](https://www.reddit.com/r/Globasa/comments/qey694/revised_proposal_syon_si_or_null/) in English and their equivalents in other languages are rendered as follows: two-syllable words end in **-syon**; longer words end in **-si**. However, verbs that ending in _-ate_ in English take neither _-syon_ nor _-si_, and simply end in **-a**. 
+-    Words that end in [_-tion_ or _-(s)sion_](https://www.reddit.com/r/Globasa/comments/qey694/revised_proposal_syon_si_or_null/) in English and their equivalents in other languages are rendered as follows: two-syllable words end in **-syon**; longer words end in **-si**. However, verbs that end in _-ate_ in English take neither _-syon_ nor _-si_, and simply end in **-a**. 
 
 ### Words Sourced from English
 
@@ -164,4 +164,4 @@ Words sourced from Mandarin are typically blended with their Japanese, Korean an
 
 -    The diphthong /aj/ is sometimes reduced to ⟨e⟩, as seen in Swahili: **rehani**, etc.  
 
--    Unless there is a different naturalistic option supported by Persian, Swahili, Turkish, Indonesian or Hindi, noun/verb words sourced from Arabic typically end in **-u**, as seen in the present tense of [Arabic verbs](https://www.reddit.com/r/Globasa/comments/py1a17/final_vowels_added_based_recently_established/). 
+-    Unless there is a different naturalistic option supported by Persian, Swahili, Turkish, Indonesian or Hindi, noun/verb words sourced from Arabic typically end in **-u**, as seen in the present tense of [Arabic verbs](https://www.reddit.com/r/Globasa/comments/py1a17/final_vowels_added_based_recently_established/).  

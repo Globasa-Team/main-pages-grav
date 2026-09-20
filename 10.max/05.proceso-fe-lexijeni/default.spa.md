@@ -2,18 +2,19 @@
 title: 'Procedimiento de propuesta de palabras'
 ---
 
-## Procedimiento de propuesta de palabras
+## Proceso de propuesta de palabras
  
-Cualquier hablante de Globasa puede proponer nuevas palabras raíz mediante el [subreddit de Globasa](https://www.reddit.com/r/Globasa/). 
+Cualquier hablante de Globasa puede proponer nuevas palabras raíz a través del [subreddit de Globasa](https://www.reddit.com/r/Globasa/). 
 
-Los procedimientos de propuesta y selección de palabras son los siguientes:
+El proceso de propuesta y selección de palabras es el siguiente:
 
-1\. Proponer definición de palabra raíz nueva
+1\. Proponer una definición para una nueva palabra raíz
 
-2\. Discutir la posibilidad de utilizar una palabra derivada o una palabra en Globasa ya establecida para expresar la definición de la palabra propuesta
+2\. Debatir si es posible utilizar una palabra derivada o una palabra ya existente en Globasa para expresar el significado propuesto
 
-3\. Si se determina que debe seleccionarse una nueva raíz: basarse en la [metodología de selección de palabras](/max/metode-fe-lexiseleti) para proponer fuente lingüística y sugerir la forma que deberá tomar la dicha raíz
+3\. Si se determina que es necesario seleccionar una nueva palabra raíz, utilizar la [metodología de selección de palabras](https://globasa.net/spa/max/metode-fe-lexiseleti) para proponer una fuente y sugerir una forma para la nueva palabra raíz
 
-4\. Discutir la forma de la palabra raíz nueva, además de consultar con las [herramientas administrativas](http://menalari.globasa.net/eng/tul) para determinar posibles conflictos como homónimos y pares mínimos
+4\. Debatir la forma de la nueva palabra raíz, lo que incluye consultar las [herramientas de administración](http://menalari.globasa.net/eng/tul) para detectar posibles conflictos de homonimia o de pares mínimos
 
-5\. Agregar nueva palabra raíz al diccionario y utilizar el formato de etimología establecido
+5\. Añadir la nueva palabra raíz al diccionario y utilizar el formato etimológico establecido
+

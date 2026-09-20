@@ -22,7 +22,7 @@ Globasa's response, once again, is to settle on a middle ground and rely primari
 #### Languages
 Mandarin Chinese, Japanese, Korean, Vietnamese and Swahili
 
-_Note: Although Mandarin, Japanese, Korean and Vietnamese all belong to different language families they share many cognates. This commonality is harnessed in Globasa._
+_Note: Although Mandarin, Japanese, Korean and Vietnamese all belong to different language families, they share many cognates. This commonality is harnessed in Globasa._
 
 #### Language families
 * **Dravidian**: Telugu, Tamil, etc.
@@ -35,31 +35,31 @@ _Note: Although Mandarin, Japanese, Korean and Vietnamese all belong to differen
 * **Slavic**: Russian, Polish, etc.
 * **Turkic**: Turkish, Uzbek, etc.
 
-_Rationale: Most, if not all, of the remaining less widely spoken languages (including the indigenous languages of the world) have at least to some degree borrowed from the languages above, and vice versa. As a result, languages not taken into account are bound to have at least a small number of words in common with those selected for Globasa._ <a id="jandanya_ji_egalwazen"></a>
+_Rationale: Most, if not all, of the remaining less widely spoken languages (including the indigenous languages of the world) have, at least to some degree, borrowed from the languages above, and vice versa. As a result, languages not taken into account are bound to have at least a small number of words in common with those selected for Globasa._ <a id="jandanya_ji_egalwazen"></a>
 
 ### Optimal Simplicity and Balance 
-In constructing a world language that is easy to learn and use for both speaker and listener, the consensus is to aim for simplicity. Taken too far, however, simplicity can unfortunately result in lack of functionality, impracticality or even in greater difficulty. The reason for this paradox is due to the following facts:
+In constructing a world language that is easy to learn and use for both speaker and listener, the consensus is to aim for simplicity. Taken too far, however, simplicity can unfortunately result in reduced functionality, impracticality or even greater difficulty. This paradox is due to the following facts:
 
 * What is easy for the speaker is not always and necessarily easy for the listener.
-* What is easy for written communication is not always and necessarily easy for verbal communication.
+* What is easy for written communication is not always and necessarily easy for spoken communication.
 * What is easy for a linguist or language enthusiast is not always and necessarily easy for the ordinary person.
 
 As a result, a middle ground between polarities must be reached in order to achieve optimal simplicity. The following are the most salient features of Globasa based on the three guiding principles stated above:
 
 * **Reduced number of similar-sounding pairs of words, particularly but not limited to those that are used in the same contexts.**
 
-_Rationale: An abundance of similar-sounding pairs of words increases level of difficulty for the listener and reduces ease of use._
+_Rationale: An abundance of similar-sounding pairs of words increases the level of difficulty for the listener and reduces ease of use._
 
-* **Number of [phonemes](https://en.wikipedia.org/wiki/Phoneme): Neither too few, nor too many**
+* **Number of [phonemes](https://en.wikipedia.org/wiki/Phoneme): Neither too few nor too many**
      * 5 vowels and 20 consonants
 
 _Rationale: It may be tempting to reduce the number of consonants even further. This would certainly have obvious advantages. On the other hand, it would also come at a cost:_
 
 * _Fidelity to the words in their original source languages would be further reduced._
 * _A greater number of similar-sounding words would be generated. Or, to avoid this, average word length would need to be increased._
-* **[Phonotactics](https://en.wikipedia.org/wiki/Phonotactics): Neither too simple, nor too complex**
-	* Limited number of onset (syllable-initial) consonant clusters
-	* Maximum of one coda (syllable-final) consonant 
+* **[Phonotactics](https://en.wikipedia.org/wiki/Phonotactics): Neither too simple nor too complex**
+	* A limited number of onset (syllable-initial) consonant clusters
+	* A maximum of one coda (syllable-final) consonant 
 
 _Rationale: Same as above._
 
@@ -68,7 +68,7 @@ _Rationale: Same as above._
      * Use of function words and strict word order as the primary method for marking grammatical relationships
      * Root words always retain their form
 * Synthetic (through [agglutination](https://en.wikipedia.org/wiki/Agglutinative_language) instead of [inflection](https://en.wikipedia.org/wiki/Fusional_language))
-     * Use of affixes for a limited number of grammatical functions but primarily for word formation. 
+     * Use of affixes for a limited number of grammatical functions, but primarily for word formation
 
 **[Head-first](https://en.wikipedia.org/wiki/Head-directionality_parameter) or [head-last](https://en.wikipedia.org/wiki/Head-directionality_parameter)? Globasa, like most natural languages, relies on both of these parameters.**
 * Head-last for simple phrases as well as for word formation
@@ -76,5 +76,5 @@ _Rationale: Same as above._
 
 _Rationale: In its experimental stage, Globasa started off as a completely head-first language, for phrase structure as well as for word formation, with the idea that [head-first](http://wayback.cecm.sfu.ca/~thalie/PhD/node36.html) structures are easier to process. Eventually, it became evident that a middle ground was the optimal choice._
 
-* _There is, in fact, an advantage to head-last phrases: the head being the most recently spoken word in the phrase. However, with long and complex phrases this advantage falls apart and instead head-first phrases are easier to process, as described [here](http://wayback.cecm.sfu.ca/~thalie/PhD/node36.html)._
-* _Even in many head-first languages where nouns precede adjectives, such as in Spanish, word formation tends to be head-last._
+* _There is, in fact, an advantage to head-last phrases: the head is the most recently spoken word in the phrase. However, with long and complex phrases, this advantage falls apart; instead, head-first phrases are easier to process, as described [here](http://wayback.cecm.sfu.ca/~thalie/PhD/node36.html)._
+* _Even in many head-first languages in which nouns precede adjectives, such as Spanish, word formation tends to be head-last._

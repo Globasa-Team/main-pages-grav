@@ -12,7 +12,7 @@ title: 'Changes and Adjustments'
 
 **Rationale**
 
-Using adj/adv words to modifying other adj/adv words creates ambiguity:
+Using adj/adv words to modify other adj/adv words creates ambiguity:
 
 **dayo bala uma** - big strong horse or greatly (very) strong horse
 
@@ -46,11 +46,11 @@ Separating the particle **be-** makes it easier to identify it. The prefix **be-
 
 However, **be-** as a prefix might ultimately be easier to process, so this experimental change may be switched back to the original **be-** in all cases.
 
-!!! **fe**: optional **fe** in many instances &rarr; optional **fe** limited to correlatives, sentence initial expressions with **-ya** nouns, and certain common time phrases (**ledyen**, etc.)
+!!! **fe**: optional **fe** in many instances &rarr; optional **fe** limited to correlatives, sentence-initial expressions with **-ya** nouns, and certain common time phrases (**ledyen**, etc.)
 
 **Rationale**
 
-Having too many different instances where **fe** is optional may become confusing and difficult to determine when **fe** must be applied and when it's optional.
+Having too many different instances where **fe** is optional may become confusing and make it difficult to determine when **fe** must be applied and when it's optional.
 
 !!! infinitive: optional **na** &rarr; obligatory **na**
 
@@ -59,7 +59,7 @@ Having too many different instances where **fe** is optional may become confusin
 Optional **na** creates an unacceptable ambiguity.
 
 Optional:
-**Mi suki oko** - I like the eye. vs I like to see.
+**Mi suki oko** - I like the eye. vs. I like to see.
 
 Obligatory:
 **Mi suki oko** - I like the eye.
@@ -99,11 +99,11 @@ invisible: **nobeokobil** (invisible) &rarr; **nookobel**
 
 #### Phonology
 
-Globasa updated its phonology in September, 2019 in order to introduce more recognizability to international words without making the phonology much more complicated.
+Globasa updated its phonology in September 2019 in order to introduce more recognizability to international words without making the phonology much more complicated.
 
-The consonant **-h** is no longer allowed in word final position. The consonants allowed in word-final position are now the following nine: **-f, -l, -m, -n, -r, -s, -w, -x, -y**.
+The consonant **-h** is no longer allowed in word-final position. The consonants allowed in word-final position are now the following nine: **-f, -l, -m, -n, -r, -s, -w, -x, -y**.
 
-Within a word, any and all single consonants are now allowed in syllable final position. The following root words have been adjusted as a result:
+Within a word, any and all single consonants are now allowed in syllable-final position. The following root words have been adjusted as a result:
 
 morning: sobah &rarr; **soba**   
 fox: rubah &rarr; **ruba** &rarr; **rubahe**   
@@ -142,7 +142,7 @@ hour: sate &rarr; **satu**
 fall: sokute &rarr; **sokutu**   
 thing: xeye &rarr; **xeyu**
 
-**Avoiding conflict**: The following words were adjusted to avoid a conflict with another root word or phrase
+**Avoiding conflict**: The following words were adjusted to avoid a conflict with another root word or phrase.
 
 gram: gram &rarr; **gramo**   
 enough, sufficient: kafi &rarr; **kufi**   
@@ -169,7 +169,7 @@ window: janel &rarr; **janela**
 
 reputation: reputasyon &rarr; **reputa**   
 
-**Greater ease in pronounciation**
+**Greater ease in pronunciation**
 
 culture: kultur &rarr; **kultura** (**kulturali**)   
 nature: natur &rarr; **natura** (**naturali**)
@@ -194,7 +194,7 @@ interpret: interpreta &rarr; **tafasir**
 
 **Greater Mandarin representation in the UDHR**
 
-The following words were not in the original dictionary but were added in the process of translating the UDHR. The root words were changed according to the new Methodology for Word Selection for greater international balance by giving Mandarin a greater representation.
+The following words were not in the original dictionary but were added in the process of translating the UDHR. The root words were changed according to the new Methodology for Word Selection to achieve greater international balance by giving Mandarin greater representation.
 
 commerce: komerci &rarr; **xangyo**  
 widow: vidwe &rarr; **gwafu**   
@@ -210,7 +210,7 @@ highway, freeway: dolo &rarr; **daydolo**
 
 school: xwexidom, alimdom &rarr; **eskol**
 
-Narrowing down meaning with addition of root word
+Narrowing down meaning with the addition of a root word
 
 know: jixi &rarr; **jixi**, **kone**
 
@@ -235,11 +235,11 @@ ekonom &rarr; **ekonomi** (economy)
 enfas &rarr; **enfasis** (emphasis)   
 eskas &rarr; **eskaso** (scarce, scarcely, barely)   
 esker &rarr; **esketi** (skirt)   
-especif &rarr; **especifi** (especific)   
+especif &rarr; **especifi** (specific)   
 estar &rarr; **estare** (star)   
 estil &rarr; **estilo** (style)   
 estrober &rarr; **estroberi** (strawberry)   
-exklus &rarr; **exklusi** (exclude)   
+eksklus &rarr; **exklusi** (exclude)   
 figur &rarr; **figura** (form, figure)   
 flex &rarr; **fleksi** (bend)   
 garbi &rarr; **garabi** (west)   
@@ -314,7 +314,7 @@ naw &rarr; **nue**
 
 (Ordinal numbers with the suffix **-yum**.)
 
-**Greater Japanese Influence in East-Asian Words (simpler phonology/pronunciation).**
+**Greater Japanese Influence in East Asian Words (simpler phonology/pronunciation).**
 
 celyan &rarr; **calyo** (vehicle)  
 consan &rarr; **cosan** (praise)  
@@ -324,7 +324,7 @@ yanxin &rarr; **yoxin** (conscience)
 xanho &rarr; **soho** (reciprocal, each other)  
 xangyo &rarr; **xogyo** (commerce)  
 
-## Phase 2 (December, 2019)
+## Phase 2 (December 2019)
 
 Additions:
 
@@ -340,16 +340,16 @@ or... or... &rarr; **oro... or**
 nor... nor... &rarr; **noro... nor**   
 kam... kam... &rarr; **kama... kam**
 
-The preposition **fe** optional only in expressions of time
+The preposition **fe** is optional only in expressions of time
 
 Semantic Adjustments:
--   Preposition **por**: "in exchange for" instead as "per"
+-   Preposition **por**: "in exchange for" instead of "per"
 -   Semantic adjustment for **[laye](https://www.reddit.com/r/Globasa/comments/hqrtw9/semantic_adjustment_laye/)**
 -   **[-je](https://www.reddit.com/r/Globasa/comments/hrfptx/semantic_adjustment_je_and_ya/)** and **[-ya](https://www.reddit.com/r/Globasa/comments/hrfptx/semantic_adjustment_je_and_ya/)**
 -   **[pel](https://www.reddit.com/r/Globasa/comments/ht3r90/trasbasa_pull/)**
 
-Sentence initial expressions:
--   Elimination of _fe... -ya_ expressions in favor of simple adjective/adverbs (with obligatory pause after comma)
+Sentence-initial expressions:
+-   Elimination of _fe... -ya_ expressions in favor of simple adjectives/adverbs (with an obligatory pause after the comma)
 -   Elimination of **to** in certain expressions: unyum to &rarr; **unyum**; xaja to &rarr; **xaja** (with obligatory pause after comma)
 
 Infinitive phrases used after prepositions
@@ -362,11 +362,11 @@ Free word order for **hay** sentences
 
 The use of **su** as a genitive (possessive) particle for all nouns
 
-The copula **is** only for linking subject with noun phrase, infinitive phrase or clause
+The copula **is** only for linking the subject with a noun phrase, infinitive phrase or clause
 
 Prepositional Verbs: Prepositions turned into verbs using **-ya** instead of using a copula
 
-The word **feya** as an optional copula used for linking subject to prepositional phrase
+The word **feya** as an optional copula used for linking the subject to a prepositional phrase
 
 Obligatory direct object marker **el** with relative pronouns
 
@@ -374,7 +374,7 @@ denmo... kumo... &rarr; **(denmo...) kumo...**
 denkwanti... kumo... &rarr; **(denkwanti...) kukwanti...**   
 dennumer... kumo... &rarr; **(dennumer...) kunumer...**
 
-Omission of **le** and **xa** within clause rather than within sentence
+Omission of **le** and **xa** within a clause rather than within a sentence
 
 abilli (possible/maybe) &rarr; **bilpul** &rarr; **bilbil**   
 maxbil (probable, probably) &rarr; **meypul** &rarr; **meymey**   
@@ -436,7 +436,7 @@ loga &rarr; **loga** (say), **pala** (speak)
 
 ## Phase 4 (January 1st, 2021) 
 
-[Preservation of SVO word order](https://www.reddit.com/r/Globasa/comments/lkwjym/proposal_preserve_usual_word_order_with_ku_as_an/) in all clauses by replacing relative pronouns (**kute**/**kuto**) with particle **hu** as relative clause marker and [introducing interrogative clauses](https://www.reddit.com/r/Globasa/comments/lpvtuq/introduce_interrogative_clauses_in_declarative/) with [**ki**](https://www.reddit.com/r/Globasa/comments/lr6qfb/conjunction_ka_or_determiner_bu_to_mark/) and using **ku-** 
+[Preservation of SVO word order](https://www.reddit.com/r/Globasa/comments/lkwjym/proposal_preserve_usual_word_order_with_ku_as_an/) in all clauses by replacing relative pronouns (**kute**/**kuto**) with the particle **hu** as a relative clause marker and [introducing interrogative clauses](https://www.reddit.com/r/Globasa/comments/lpvtuq/introduce_interrogative_clauses_in_declarative/) with [**ki**](https://www.reddit.com/r/Globasa/comments/lr6qfb/conjunction_ka_or_determiner_bu_to_mark/) and using **ku-** 
 
 [Addition of metric numerals/prefixes](https://www.reddit.com/r/Globasa/comments/mb3ych/deci_centi_mili_mikro_nano_etc_peta_eksa_zeta_yota/)
 
@@ -458,7 +458,7 @@ loga &rarr; **loga** (say), **pala** (speak)
 
 [Verbs to avoid beginning with le-, xa-, nun-, ger- and du-](https://www.reddit.com/r/Globasa/comments/py0kk1/verbs_should_avoid_beginning_with_le_xa_nun_ger/)
 
-[Caveat 3 final vowels added; Arabic noun/verbs](https://www.reddit.com/r/Globasa/comments/py1a17/final_vowels_added_based_recently_established/)
+[Caveat 3 final vowels added; Arabic nouns/verbs](https://www.reddit.com/r/Globasa/comments/py1a17/final_vowels_added_based_recently_established/)
 
 [eko- (eco-); eko &rarr; rusoti](https://www.reddit.com/r/Globasa/comments/q0n63z/eko_eco_eko_eho_risoti_risoti/) 
 

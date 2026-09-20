@@ -2,9 +2,9 @@
 title: 'Metodología de desarrollo léxico'
 ---
 
-## Metodología de desarrollo léxico del Globasa
+## Metodología de desarrollo léxico
 
-**Paso Preliminar**: Antes de apresurarse a expandir el diccionario de Globasa con una nueva palabra raíz, determine si la palabra deseada puede expresarse potencialmente a través de una palabra raíz ya establecida o mediante un método de formación de palabras (mediante afijos o palabras compuestas). Con base en esa determinación, decida si propone o no una nueva palabra raíz.
+**Paso preliminar**: Antes de apresurarse a ampliar el diccionario del Globasa con una nueva palabra raíz, hay que determinar si la palabra deseada puede expresarse mediante una palabra raíz ya establecida o mediante algún método de formación de palabras (afijación o composición). A partir de esa evaluación, se decide si conviene o no proponer una nueva palabra raíz.
 
 **Metodología en tres partes:**
 
@@ -12,156 +12,156 @@ title: 'Metodología de desarrollo léxico'
 
 (2) Determinar la semántica de la palabra
 
-(3) Determinar la forma exacta (letras) de la palabra
+(3) Determinar la forma exacta (grafía) de la palabra
 
 ## Establecimiento de la fuente etimológica
 
-### Advertencias
+### Salvedades
 
-Las siguientes advertencias deben tenerse en cuenta durante el proceso de selección de fuentes. Siempre que sea necesario, se debe hacer un esfuerzo para adaptar las formas de las palabras en función de las advertencias a continuación utilizando la fuente etimológica más internacional. Sin embargo, si esto no es posible, se debe utilizar una fuente internacional menos amplia.
+Durante el proceso de selección de la fuente deben tenerse en cuenta las siguientes salvedades. Cuando sea necesario, se procurará adaptar la forma de la palabra de acuerdo con las salvedades que figuran a continuación, tomando como base la fuente etimológica de mayor difusión internacional. Sin embargo, si esto no fuera posible, deberá utilizarse una fuente de menor difusión internacional.  
 
-- _Nunca_ adopte pares mínimos con _v_ y _w_, _s_ y _z_, o con _m_ y _n_ en posición final de palabra
+-   _Nunca_ adoptar pares mínimos que contrasten _v_ y _w_, _s_ y _z_ o _m_ y _n_ en posición final de palabra.
 
-- A menos que no haya absolutamente ninguna otra opción y se haya investigado a fondo por posibles problemas con las palabras adjuntas, _nunca_ adopte pares mínimos con más/menos una consonante o vocal al principio/final de las palabras.
+-   A menos que no haya absolutamente ninguna otra opción y se hayan investigado a fondo los posibles problemas con palabras afijadas, _nunca_ adoptar un par mínimo cuyos miembros difieran únicamente por la presencia o ausencia de una consonante o vocal al principio o al final de la palabra.
 
-- Siempre que sea posible, evitar parejas mínimas con _l_ y _r_, _b_ y _p_, _f_ y _p_, _c_ y _j_, _c_ y _x_, _h_ y _r_ o pares mínimos con más/menos una vocal al principio/final de las palabras.
+-   Siempre que sea posible, evitar pares mínimos que contrasten _l_ y _r_, _b_ y _p_, _f_ y _p_, _c_ y _j_, _c_ y _x_, _h_ y _r_, así como pares mínimos cuyos miembros difieran únicamente por la presencia o ausencia de una vocal al principio o al final de la palabra.
 
-- Siempre que sea posible, evitar _cualquier_ par mínimo: Siempre que haya más de una opción de _forma de palabra_ más o menos igual, elegir la forma que no crea un par mínimo.
+-   Siempre que sea posible, evitar _cualquier_ par mínimo: cuando haya más de una opción de _forma de palabra_ más o menos equivalente, elegir la forma que no cree un par mínimo.
 
-- Siempre que sea posible, evitar palabras monosílabas y palabras de más de tres sílabas: Siempre que haya más de una opción de _fuente_ más o menos igual, elegir la fuente de dos o tres sílabas, o añadir una vocal [_a posteriori_](/pimpan-swal/metode-fe-lexiseleti#a_posteriori) para producir una palabra de dos sílabas. Además, tenga en cuenta que Globasa prefiere las palabras de tres sílabas a las de dos sílabas.
+-   Siempre que sea posible, evitar palabras monosilábicas y palabras de más de tres sílabas: cuando haya más de una opción de _fuente_ más o menos equivalente, elegir una fuente de dos o tres sílabas, o añadir una vocal [_a posteriori_](https://globasa.net/spa/max/metode-fe-lexiseleti#a_posteriori) para formar una palabra bisilábica. Asimismo, hay que tener en cuenta que el Globasa favorece las palabras trisílabas sobre las bisílabas.  
 
-- Siempre que sea posible, evitar palabras que parezcan llevar afijos: Siempre que haya más de una opción de _forma de palabra_ más o menos igual, elegir la forma que no parezca llevar afijos.
+-   Siempre que sea posible, evitar palabras que parezcan estar formadas mediante afijos: cuando haya más de una opción de _forma de palabra_ más o menos equivalente, elegir la forma que no parezca afijada.
 
-### Algoritmo de selección de fuente
+### Algoritmo de selección de la fuente
 
-- Verifique los siguientes idiomas en fuentes en línea como Google Translate, [Wiktionary](https://www.wiktionary.org/) y Wikipedia, y use diccionarios impresos como apoyo en caso de duda.: inglés, francés, alemán, ruso, español, mandarín, japonés, coreano, vietnamita, hindi, télugu, árabe, swahili, persa, turco, indonesio, filipino.  
+-   Consultar las siguientes lenguas en fuentes fiables en línea, como [Wikcionario](https://es.wiktionary.org/wiki/Wikcionario:Portada) y Wikipedia, y recurrir también a diccionarios impresos como apoyo en caso de duda: inglés, francés, alemán, ruso, español, mandarín, japonés, coreano, vietnamita, hindi, telugu, árabe, suajili, persa, turco, indonesio y filipino.  
 
-    - Seleccione la fuente con la mayor cantidad de familias lingüísticas representadas.
-        - El inglés, el francés, el alemán, el ruso y el español se consideran una sola familia.
-        - El mandarín, el coreano, el japonés, el vietnamita, el hindi, el télugu, el árabe, el swahili, el persa, el turco y el indonesio pertenecen a diferentes familias.
+    -   Seleccionar la fuente representada en el mayor número de familias lingüísticas.
+        -   El inglés, el francés, el alemán, el ruso y el español se consideran una sola familia.  
+        -   El mandarín, el coreano, el japonés, el vietnamita, el hindi, el telugu, el árabe, el suajili, el persa, el turco y el indonesio se consideran pertenecientes a familias distintas.
 
-    - En caso de empate en el número de familias representadas, el orden de prioridad para la selección de la fuente es el siguiente:
-        - Dos o más de los idiomas del este asiático: mandarín, japonés, coreano, vietnamita
-        - Árabe, compatible con cualquier otro idioma o idiomas (persa o swahili, por ejemplo)
-        - Hindi, compatible con cualquier otro idioma o idiomas (télugu, indonesio o cualquier idioma europeo, por ejemplo)
-        - Idiomas europeos, compatibles con cualquier otro idioma o idiomas (indonesio o turco, por ejemplo)
-        - persa y turco
+    -   Si hay un empate en el número de familias representadas, el orden de prioridad para seleccionar la fuente es el siguiente:
+        -   Dos o más de las lenguas de Asia oriental: mandarín, japonés, coreano y vietnamita
+        -   Árabe, con el apoyo de otra u otras lenguas (por ejemplo, persa o suajili)
+        -   Hindi, con el apoyo de otra u otras lenguas (por ejemplo, telugu, indonesio o alguna lengua europea)
+        -   Lenguas europeas, con el apoyo de otra u otras lenguas (por ejemplo, indonesio o turco)
+        -   Persa y turco
 
-    - Si no hay concordancia, haz una búsqueda más exhaustiva con otras clases de palabra o con sinónimos.
+    -   Si no hay coincidencias, realizar una búsqueda más exhaustiva utilizando otras clases de palabras o sinónimos.
 
-    - Si aún no hay acuerdo, elija la fuente más adecuada en función del siguiente orden de prioridad.
-        - mandarin (sólo palabras de dos caracteres)
-        - vietnamita
-        - télugu
-        - swahili
-        - árabe
-        - hindi
+    -   Si aun así no hay coincidencias, elegir la fuente más adecuada de acuerdo con el siguiente orden de prioridad:
+        -   Mandarín (solo palabras de dos caracteres)
+        -   Vietnamita
+        -   Telugu
+        -   Suajili
+        -   Árabe
+        -   Hindi
 
-    - Tenga en cuenta que las advertencias anteriores siempre prevalecen sobre las pautas de selección de fuentes.
+    -   Hay que tener en cuenta que las salvedades anteriores siempre tienen prioridad sobre las pautas de selección de la fuente.
 
-## Determinar la semántica de la palabra
+## Determinación de la semántica de la palabra
 
-En este paso, se debe determinar si la nueva palabra raíz será una palabra sustantivo/verbo o una palabra adj/adv. Otras consideraciones deben ser si la nueva palabra raíz denotará una persona o una herramienta, o si la palabra que denota una persona o una herramienta se derivará de la nueva palabra raíz.
+En este paso debe determinarse si la nueva raíz será una palabra de tipo sustantivo/verbo o una palabra de tipo adj./adv. También debe considerarse si la nueva raíz designará a una persona o una herramienta, o si la palabra que designe a la persona o herramienta se derivará de la nueva raíz. 
 
-- La clase de palabra generalmente se determina por la que parece ser más útil (es decir, la que se usa con más frecuencia en la práctica).
+-   La clase de palabra suele determinarse en función de cuál resulte más útil (es decir, cuál se utilice con mayor frecuencia en la práctica).
 
-- En algunos casos, la clase de palabra que parece más útil no está bien respaldada por los idiomas de origen, en cuyo caso, la clase de palabra se selecciona en función de la mayor compatibilidad en los idiomas de origen.
+-   En algunos casos, la clase de palabra que parece más útil no cuenta con suficiente respaldo en las lenguas fuente; en esos casos, se selecciona la que tenga mayor respaldo en dichas lenguas.
 
-- En algunos casos, se selecciona la clase de palabra que se usa con menos frecuencia para acomodar mejor las palabras derivadas. Por ejemplo, Globasa tiene **termo** (_calor_) como sustantivo, en lugar de algo como **_garme_** (_caliente_) para usar fácilmente **termo** en palabras científicas compuestas como _termodinámica_, así como para derivar más fácilmente palabras como **termodo** (_calentado_), a diferencia de **_garmegido_**.
+-   En algunos casos, se selecciona la clase de palabra menos frecuente para facilitar la formación de palabras derivadas. Por ejemplo, el Globasa tiene **termo** (_calor_) como sustantivo, en lugar de algo como **_garme_** (_cálido_), para facilitar el uso de **termo** en palabras científicas compuestas como _termodinámica_, así como la derivación de palabras como **termodo** (_calentado_), en lugar de **_garmegido_**. 
 
-- En el caso de palabras que denotan personas, existen pautas específicas para determinar la palabra raíz. Algunas palabras que denotan profesiones se derivan con **-yen** o **-kef**, mientras que otras son palabras raíz. Las palabras derivadas que denotan profesiones se derivan de palabras raíz que denotan _verbo/práctica_, _equipo_ o _establecimiento_ (pero no la _oficina del profesional_). De lo contrario, la palabra que denota una profesión suele ser una palabra raíz: **biskopo** (obispo), etc.
+-   En el caso de las palabras que designan personas, existen pautas específicas para determinar la palabra raíz. Algunas palabras que designan profesiones se derivan mediante **-yen** o **-kef**, mientras que otras son palabras raíz. Las palabras derivadas que designan profesiones se forman a partir de palabras raíz que expresan _verbo/práctica_, _equipo_ o _establecimiento_ (pero no el _consultorio u oficina del profesional_). En los demás casos, la palabra que designa una profesión suele ser una palabra raíz: **biskopo** (obispo), etc. 
 
-    - _verbo/practica_
-        - **ato** (acto) -- **atoyen** (actor)
-        - **medis** (medicina) -- **medisyen** (médico)
-        - **injeneri** (ingeniería) -- **injeneriyen** (ingeniero)
-        - **arkitetur** (arquitectura) -- **arkiteturyen** (arquitecto)
-        - **jasusi** (espionaje) -- **jasusiyen** (espía)
+    -   _verbo/práctica_ 
+        -   **ato** (actuar/actuación) -- **atoyen** (actor)   
+        -   **medis** (medicina) -- **medisyen** (médico)  
+        -   **injeneri** (ingeniería) -- **injeneriyen** (ingeniero)  
+        -   **arkitetur** (arquitectura) -- **arkiteturyen** (arquitecto)   
+        -   **jasusi** (espionaje) -- **jasusiyen** (espía)  
     
-    -	_equipo_
-        - **polisi** (policía) -- **polisiyen** (oficial de policía)
-        - **askeri** (ejército) -- **askeriyen** (soldado)
-        - **senato** (senado) -- **senatoyen** (senador)
+    -   _equipo_  
+        -   **polisi** (policía) -- **polisiyen** (agente de policía)  
+        -   **askeri** (ejército) -- **askeriyen** (soldado)  
+        -   **senato** (senado) -- **senatoyen** (senador)  
  
-    - _establecimiento_
-        - **banko** (banco) -- **bankoyen** (banquero)
-        - **eskol** (escuela) -- **eskolkef** (director)
+    -   _establecimiento_  
+        -   **banko** (banco) -- **bankoyen** (banquero)  
+        -   **eskol** (escuela) -- **eskolkef** (director)   
         
-    - _oficina del profesional_
-        - **sekretari** (secretario) -- **sekretaridom** (secretaría)
+    -   _oficina del profesional_
+        -   **sekretari** (secretario) -- **sekretaridom** (secretaría, secretariado)
 
-## Determinar la forma exacta de la palabra
+## Determinación de la forma exacta de la palabra
 
-- Aplicar las advertencias anteriores.
+-   Aplicar las salvedades anteriores.
 
-- Intente encontrar un término medio al crear una mezcla entre las palabras en los distintos idiomas. Sin embargo, tenga en cuenta que las palabras provenientes de idiomas europeos tienden a favorecer la ortografía (consulte los detalles a continuación). Se debe hacer un esfuerzo para mantener las mezclas lo más naturales posible. Es decir, debería haber una diferencia de un solo fonema con respecto a la forma de cualquier lengua natural. Una diferencia de dos fonemas también es aceptable si los fonemas se aproximan a los de cualquier lengua natural.
+-   Al combinar palabras de distintas lenguas para crear una nueva forma, se procurará encontrar un término medio. Sin embargo, hay que tener en cuenta que las palabras procedentes de lenguas europeas tienden a favorecer la grafía (véanse los detalles más abajo). Se procurará que estas formas combinadas sean lo más naturales posible. Es decir, la forma resultante debería diferir en un solo fonema de la forma correspondiente en alguna lengua natural. También es aceptable una diferencia de dos fonemas si estos son cercanos a los de alguna lengua natural. 
 
-- Se debe hacer un esfuerzo para evitar palabras sustantivo/verbo que comiencen con las sílabas _le-_, _xa-_, _nun-_, _ger-_, _be-_ y _du-_ para evitar confusiones con las partículas verbales.
+-   Se procurará evitar palabras de tipo sustantivo/verbo que comiencen con las sílabas _le-_, _xa-_, _nun-_, _ger-_, _be-_ y _du-_, a fin de evitar confusiones con las partículas verbales. 
 
-- Seleccionar consonantes y vocales que sean las menos comunes en Globasa.
-    - Si todo lo demás es más o menos igual, elija _e_ en vez de _a_, _e_ en vez de _i_, _o_ en vez de cualquier otra vocal excepto _u_ (_u_ sobre _o_).
-    - Si todo lo demás es más o menos igual, elige _m_ en vez de _n_, _l_ en vez de _r_, _h_ en vez de _k_, _g_ en vez de _k_, _d_ en vez de _t_, _p_ en vez de _b_.
-    - Sin embargo, siendo todo lo demás más o menos igual, elige _s_ en vez de _z_ y _w_ en vez de _v_. <a id="a_posteriori"></a>
+-   Seleccionar las consonantes y vocales menos frecuentes en Globasa.
+    -   En igualdad de condiciones, elegir _e_ antes que _a_, _e_ antes que _i_ y _o_ antes que cualquier otra vocal excepto _u_ (_u_ antes que _o_).
+    -   En igualdad de condiciones, elegir _m_ antes que _n_, _l_ antes que _r_, _h_ antes que _k_, _g_ antes que _k_, _d_ antes que _t_ y _p_ antes que _b_.
+    -   Sin embargo, en igualdad de condiciones, elegir _s_ antes que _z_ y _w_ antes que _v_. <a id="a_posteriori"></a>
 
-- Las raíces de las palabras en Globasa tienden a terminar en una vocal, preferiblemente una vocal _a posteriori_ que se encuentra en al menos uno de los principales idiomas o familias de idiomas.
+-   Las palabras raíz en Globasa tienden a terminar en vocal, preferentemente en una vocal _a posteriori_ presente en al menos una de las principales lenguas o familias lingüísticas. 
 
-    - Ejemplos de vocales finales _a posteriori_: palabras en español que terminan en _-o_ o _-a_, palabras en swahili que terminan en _-i_ o _-u_, o palabras en japonés que terminan en _-u_.
-    - [Advertencias](https://www.reddit.com/r/Globasa/comments/phwnv1/naturalistic_final_vowels_to_add_or_not_to_add/):
-        - Advertencia 1: Si la palabra constara de cuatro o más sílabas, no se agrega la vocal si hay al menos un idioma que tenga la palabra terminada en consonante: [**estrutur**](https://menalari.globasa.net/spa/lexi/estrutur), etc.
-            - Sin embargo, los sustantivos/verbos que terminan en _-ation/-ate_ en inglés siempre agregan **-a** en Globasa, independientemente de la longitud de la palabra: [**diskrimina**](https://menalari.globasa.net/spa/lexi/diskrimina), etc.
-            - Además, las palabras que terminan en _-ia/-io_ en español, en _-aire/-oire_ en francés y en _-y_ en inglés suelen terminar en **-i** en Globasa independientemente de la longitud de la palabra: **ordinari**, **teritori**, **sekretari**, etc.
-        - Advertencia 2: En unas pocas palabras seleccionadas y muy comunes, no se agrega una vocal final para mantener la palabra en dos sílabas: **eskol**, **alim**, **muhim**, etc. Esto ahora es una advertencia cerrada, ya que se han agregado todas las palabras suficientemente comunes.
-        - Advertencia 3: Si la etimología de una palabra incluye ocho o más idiomas y la palabra en cuestión termina en consonante, la palabra en Globasa _no_ agrega una vocal final. Por ejemplo, ver [**tufan**](https://menalari.globasa.net/spa/lexi/tufan) y [**salun**](https://menalari.globasa.net/spa/lexi/salun). Comparar con [**safe**](https://menalari.globasa.net/spa/lexi/safe), [**taru**](https://menalari.globasa.net/spa/lexi/taru ) y [**jusu**](https://menalari.globasa.net/spa/lexi/jusu).
+    -   Ejemplos de vocales finales _a posteriori_: palabras españolas terminadas en _-o_ o _-a_, palabras suajilis terminadas en _-i_ o _-u_, o palabras japonesas terminadas en _-u_.
+    -   [Salvedades](https://www.reddit.com/r/Globasa/comments/phwnv1/naturalistic_final_vowels_to_add_or_not_to_add/):
+        -   Salvedad 1: Si la palabra constara de cuatro sílabas o más, no se añade la vocal si existe al menos una lengua en la que la palabra termine en consonante: [**estrutur**](https://menalari.globasa.net/spa/lexi/estrutur), etc. 
+            -   Sin embargo, las palabras de tipo sustantivo/verbo que terminan en _-ation/-ate_ en inglés siempre añaden **-a** en Globasa, independientemente de la longitud de la palabra: [**diskrimina**](https://menalari.globasa.net/spa/lexi/diskrimina), etc. 
+            -   Además, las palabras que terminan en _-ia/-io_ en español, en _-aire/-oire_ en francés y en _-y_ en inglés suelen terminar en **-i** en Globasa independientemente de su longitud: **ordinari**, **teritori**, **sekretari**, etc.   
+        -   Salvedad 2: En unas pocas palabras muy frecuentes, no se añade una vocal final para mantener la palabra en dos sílabas: **eskol**, **alim**, **muhim**, etc. Esta salvedad se considera ya cerrada, puesto que todas las palabras suficientemente frecuentes ya han sido incorporadas.
+        -   Salvedad 3: Si en la etimología de una palabra hay ocho o más lenguas en las que la palabra en cuestión termina en consonante, la palabra en Globasa _no_ añade una vocal final. Por ejemplo, véanse [**tufan**](https://menalari.globasa.net/spa/lexi/tufan) y [**salun**](https://menalari.globasa.net/spa/lexi/salun). Compárense con [**safe**](https://menalari.globasa.net/spa/lexi/safe), [**taru**](https://menalari.globasa.net/spa/lexi/taru) y [**jusu**](https://menalari.globasa.net/spa/lexi/jusu). 
 
-    - Una vocal _a priori_ sólo debe agregarse si la última consonante es una que las reglas fonotácticas no permiten en la posición final de palabra (_b, c, d, g, h, j, k, p, t, v, z_) o para crear una palabra de dos sílabas si la palabra de origen consta de una sílaba (por ejemplo, consulte [**pole**](https://menalari.globasa.net/spa/lexi/pole), que agrega **-e** para evitar pares mínimos con **bol** y **pul**). Para seleccionar una vocal _a priori_, utilice las siguientes pautas:
+    -   Solo debe añadirse una vocal _a priori_ si la última consonante es una de las que las reglas fonotácticas no permiten en posición final de palabra (_b, c, d, g, h, j, k, p, t, v, z_), o para crear una palabra bisilábica cuando la palabra fuente sea monosilábica (por ejemplo, véase [**pole**](https://menalari.globasa.net/spa/lexi/pole), en la que se añade **-e** para evitar pares mínimos con **bol** y **pul**). Para seleccionar una vocal _a priori_, se aplican las siguientes pautas:
 
-        - Indoeuropeo (romance, eslavo, germánico, hindi, persa): **-i** para verbos ingleses, de lo contrario **-e**.
-        - Todos los demás (mandarín, japonés, coreano y vietnamita; árabe; indonesio y filipino): **-u**.
+        -   Lenguas indoeuropeas (romances, eslavas, germánicas, hindi y persa): **-i** para los verbos ingleses; en los demás casos, **-e**.
+        -   Para todas las demás (mandarín, japonés, coreano y vietnamita; árabe; indonesio y filipino): **-u**.
        
-- Se añade la vocal inicial _a posteriori_ o _a priori_ **e-** a grupos de consonantes iniciales no permitidos por la fonotáctica de Globasa: **espageti**, **Esrilanka**, **Exkiperi**, etc.
+-   La vocal inicial _a posteriori_ o _a priori_ **e-** se añade a los grupos consonánticos iniciales que no están permitidos por la fonotáctica del Globasa: **espageti**, **Esrilanka**, **Exkiperi**, etc. 
 
-### Palabras provenientes de idiomas europeos
+### Palabras procedentes de lenguas europeas
 
-- Las palabras provenientes de idiomas europeos tienden a favorecer la ortografía tanto de consonantes como de vocales.
+-   Las palabras procedentes de lenguas europeas tienden a favorecer la grafía tanto en las consonantes como en las vocales.
 
-- Las consonantes ⟨c⟩, ⟨g⟩ y ⟨s⟩, en particular, se mantienen intactas si existe al menos una lengua europea que las pronuncie como /tʃ/, /g/ y /s/ respectivamente: **centro**, **geo**, **visita**, etc.
+-   En particular, las consonantes ⟨c⟩, ⟨g⟩ y ⟨s⟩ se conservan si existe al menos una lengua europea que las pronuncie como /tʃ/, /g/ y /s/, respectivamente: **centro**, **geo**, **visita**, etc. 
 
-- Esta regla general es especialmente importante cuando se trata de la forma en que se traducen las vocales en idiomas que han tomado prestadas palabras europeas a través del inglés. Por ejemplo, la palabra para _ron_ se traduce como /ram/ en muchos idiomas, como una aproximación del inglés /rʌm/. A pesar de que esta /a/ es más frecuente, Globasa conserva ⟨u⟩ en la ortografía original: **rum**.
+-   Esta regla práctica es especialmente importante a la hora de representar las vocales en lenguas que han tomado palabras europeas a través del inglés. Por ejemplo, la palabra correspondiente a _rum_ se representa como /ram/ en muchas lenguas, como aproximación al inglés /rʌm/. Aunque esta /a/ sea más frecuente, el Globasa conserva la ⟨u⟩ de la grafía original: **rum**. 
 
-- Las palabras que terminan en [_-tion_ o _-(s)sion_](https://www.reddit.com/r/Globasa/comments/qey694/revised_proposal_syon_si_or_null/) en inglés y sus equivalentes en otros idiomas se representan de la siguiente forma: las palabras de dos sílabas terminan en **-syon**; las palabras más largas terminan en **-si**. Sin embargo, los verbos que terminan en _-ate_ en inglés no llevan ni _-syon_ ni _-si_, y simplemente terminan en **-a**.
+-   Las palabras que terminan en [_-tion_ o _-(s)sion_](https://www.reddit.com/r/Globasa/comments/qey694/revised_proposal_syon_si_or_null/) en inglés, así como sus equivalentes en otras lenguas, se representan de la siguiente manera: las palabras bisilábicas terminan en **-syon**; las palabras de más de dos sílabas terminan en **-si**. Sin embargo, los verbos que terminan en _-ate_ en inglés no llevan ni _-syon_ ni _-si_, sino que terminan simplemente en **-a**. 
 
-### Palabras provenientes del inglés
+### Palabras procedentes del inglés
 
-Las palabras que provienen principalmente del inglés se representan en Globasa según la siguiente regla general: si un fonema en inglés se puede representar fielmente con el inventario de Globasa, se favorece la pronunciación. De lo contrario, la forma de la palabra en Globasa favorece la ortografía inglesa. Advertencias: /oʊ/, como en _post_, _note_ y _boat_, se convierte en ⟨o⟩; /ʊ/, como en _foot_, se convierte en ⟨u⟩; /z/ como en _visit_ permanece como ⟨s⟩. Para ilustrar mejor:
+Las palabras procedentes principalmente del inglés se representan en Globasa de acuerdo con la siguiente regla práctica: si un fonema inglés puede representarse fielmente mediante el inventario fonémico del Globasa, se favorece la pronunciación. De lo contrario, la forma en Globasa se basa preferentemente en la grafía inglesa. Salvedades: /oʊ/, como en _post_, _note_ y _boat_, se representa como ⟨o⟩; /ʊ/, como en _foot_, se representa como ⟨u⟩; /z/, como en _visit_, se representa como ⟨s⟩. Algunos ejemplos adicionales: 
 
-- Se favorece la ortografía de las llamadas vocales _cortas_ así como de las vocales simples reducidas a /ə/: **Alaska**, **Nevada**, **Misisipi**, **Boston**, **Konetikut**, etc.
+-   Se favorece la grafía para las llamadas vocales _cortas_, así como para las vocales individuales reducidas a /ə/: **Alaska**, **Nevada**, **Misisipi**, **Boston**, **Konetikut**, etc. 
 
-- Se favorece la ortografía de ⟨er⟩, ⟨ir⟩ y ⟨ur⟩ pronunciados como /ɜr/: **hamburger** (hamburguesa), **hamuster** (hámster), **eskirti** (falda), etc.
+-   Se favorece la grafía para ⟨er⟩, ⟨ir⟩ y ⟨ur⟩ cuando se pronuncian /ɜr/: **hamburger** (hamburguesa), **hamuster** (hámster), **eskirti** (falda), etc.  
 
-- Se favorece la ortografía de ⟨au⟩: **Awgusta** (Augusta)
+-   Se favorece la grafía para ⟨au⟩: **Awgusta** (Augusta)
 
-- La pronunciación tiene la preferencia en la mayoría de los grupos de vocales: **Finiks** (Phoenix), **Wudrow** (Woodrow), **Tenesi** (Tennessee)
+-   Se favorece la pronunciación para la mayoría de los grupos vocálicos: **Finiks** (Phoenix), **Wudrow** (Woodrow), **Tenesi** (Tennessee)
 
-- Se favorece la pronunciación para ⟨are⟩: **Delawer** (Delaware)
+-   Se favorece la pronunciación para ⟨are⟩: **Delawer** (Delaware)
 
-- Se favorece la pronunciación de las llamadas vocales _largas_, a excepción de la _o larga_, en cuyo caso se favorece la ortografía: **beykon** (bacon), **eskeyti** (skate), **Aydaho** (Idaho), **Yuta** (Utah); _o larga_: **Ohayo** (Ohio), etc.
+-   Se favorece la pronunciación para las llamadas vocales _largas_, excepto en el caso de la _o larga_, para la cual se favorece la grafía: **beykon** (bacon), **eskeyti** (skate), **Aydaho** (Idaho), **Yuta** (Utah); _o larga_: **Ohayo** (Ohio), etc. 
 
-- Se favorece la pronunciación de la mayoría de las consonantes, excepto _s_ cuando se pronuncia como /z/, en cuyo caso se favorece la ortografía: **Misuri** (Missouri)
+-   Se favorece la pronunciación para la mayoría de las consonantes, excepto _s_ cuando se pronuncia /z/, en cuyo caso se favorece la grafía: **Misuri** (Missouri)
 
-### Palabras provenientes del mandarín
+### Palabras procedentes del mandarín
 
-Las palabras provenientes del mandarín generalmente se mezclan con sus respectivas formas en japonés, coreano y vietnamita. Por lo general, se hace un intento de simplificar la fonotáctica del mandarín cuando lo admiten los otros idiomas de Asia oriental, en particular el japonés.
+Las palabras procedentes del mandarín suelen combinarse con sus formas en japonés, coreano y vietnamita. Por lo general, se procura simplificar la fonotáctica del mandarín cuando las demás lenguas de Asia oriental, en particular el japonés, respaldan esa simplificación.
 
-- La sílaba _-ang_ del Pinyin a menudo se convierte en ⟨o⟩ en Globasa, como en japonés.
+-   La terminación _-ang_ del pinyin suele representarse como ⟨o⟩ en Globasa, como ocurre en japonés.
 
-- Las combinaciones de consonante más semivocal a menudo se reducen a la consonante.
+-   Una consonante seguida de una semivocal suele reducirse a una sola consonante.
 
-- Asimismo, los diptongos suelen reducirse a una vocal simple.
+-   Del mismo modo, los diptongos suelen reducirse a una vocal simple. 
 
-### Palabras provenientes del árabe
+### Palabras procedentes del árabe
 
-- El diptongo /au̯/ a menudo se reduce a ⟨o⟩, como se ve en swahili o persa: **soti**, etc.
+-   El diptongo /au̯/ suele reducirse a ⟨o⟩, como ocurre en suajili o persa: **soti**, etc.  
 
-- El diptongo /aj/ en ocasiones se reduce a ⟨e⟩, como se ve en swahili: **rehani**, etc.
+-   El diptongo /aj/ se reduce en ocasiones a ⟨e⟩, como ocurre en suajili: **rehani**, etc.  
 
-- A menos que haya una opción naturalista diferente respaldada por el persa, el swahili, el turco, el indonesio o el hindi, las palabras sustantivo/verbo provenientes del árabe generalmente terminan en **-u**, como podemos ver el tiempo presente de los [verbos en árabe](https://www.reddit.com/r/Globasa/comments/py1a17/final_vowels_added_based_recently_established/).
+-   A menos que exista otra opción naturalista respaldada por el persa, el suajili, el turco, el indonesio o el hindi, las palabras de tipo sustantivo/verbo procedentes del árabe suelen terminar en **-u**, como ocurre en el presente de los [verbos árabes](https://www.reddit.com/r/Globasa/comments/py1a17/final_vowels_added_based_recently_established/).

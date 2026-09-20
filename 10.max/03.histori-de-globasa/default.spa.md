@@ -2,40 +2,42 @@
 title: 'Historia del Globasa'
 ---
 
-## Historia del Globasa antes de su publicación en julio del 2019
+```markdown
+## Historia del Globasa antes de su publicación en julio de 2019
 
-Como estudiante de posgrado en lingüística, tuve la oportunidad de aprender sobre las lenguas criollas. Alrededor del año 2000, llegué a la conclusión de que era posible crear un idioma mundial con un léxico verdaderamente internacional y una fonología y gramática más sencilla que la del Esperanto. Muchas de las características de Globasa están basadas o inspiradas en las características más típicas que se encuentran en los criollos, como su gramática analítica.
+Durante sus estudios de posgrado en lingüística, el creador del Globasa, Hector Ortega, tuvo la oportunidad de estudiar las lenguas criollas. Hacia el año 2000, había llegado a la conclusión de que era posible crear una lengua mundial con un léxico verdaderamente internacional y una fonología y una gramática más sencillas que las del Esperanto. Muchas de las características del Globasa se basan en los rasgos más típicos de las lenguas criollas o están inspiradas en ellos, como su gramática analítica.
 
-Antes de encontrarme con [Neo Patwa](http://patwa.pbworks.com/w/page/14800479/FrontPage) alrededor del 2009 y con [Pandunia](http://www.pandunia.info/) en 2017, ya había desarrollado las siguientes ideas para una lengua mundial completa que no sacrificara la expresividad y la claridad, en otras palabras, una lengua mundial que en realidad podría ser una mejor alternativa al Esperanto en todos los niveles:
+Para cuando Ortega descubrió [Neo Patwa](https://patwa.pbworks.com/w/page/14800491/index-esp), hacia 2009, y posteriormente Pandunia, en 2017, ya había desarrollado las siguientes ideas para una hipotética lengua mundial plenamente desarrollada que no sacrificara expresividad ni claridad; en otras palabras, una lengua mundial que pudiera ser realmente una alternativa al Esperanto en todos los aspectos:
 
-- Léxico verdaderamente internacional
-    - Selección óptima de palabras internacionales en base a una metodología específica
+-   Léxico verdaderamente internacional
+    -   Selección de palabras óptimamente internacionales mediante una metodología específica
 
-- Fonología simple
-    - sistema estricto de una letra, un fonema
-    - elegir el inventario fonético en función de criterios específicos:
-        - fonemas familiares para al menos el 50% de la población
-        - teniendo en cuenta las limitaciones del alfabeto romano
-    - fonotáctica simple: sin oclusivas y otras consonantes en la posición final de sílaba (más tarde modificada a una limitación sólo para la posición final de palabra en palabras ordinarias)
+-   Fonología sencilla
+    -   sistema estricto de correspondencia entre una letra y un fonema
+    -   selección del inventario fonémico según criterios específicos:
+        -   fonemas familiares para al menos el 50 % de la población
+        -   teniendo en cuenta las limitaciones del alfabeto latino
+    -   fonotáctica sencilla: ausencia de oclusivas u otras consonantes en posición final de sílaba (posteriormente revisada para limitar esta restricción únicamente a la posición final de palabra en palabras ordinarias)
 
-- Gramática sencilla
-    - Sin artículos (definición e indefinición indicadas mediante determinantes)
-    - Gramática analítica con forma de palabra raíz estable
-        - sin terminación plural (uso de adjetivos para indicar pluralidad cuando fuera necesario)
-        - sustantivos neutros al género (uso de adjetivos para indicar el género cuando fuera necesario)
-        - aislar formas verbales (usando partículas en lugar de sufijos)
-        - ya sea aislando totalmente la formación de palabras o mediante un sistema de afijos aglutinante inspirado en el turco (con morfemas estables) en lugar del complejo sistema del Esperanto con terminaciones vocálicas.
-        - aislamiento de correlativos (más tarde modificado a correlativos de una palabra)
-        - grupo selecto de frases preposicionales
+-   Gramática sencilla
+    -   Sin artículos (la definitud y la indefinitud se indican mediante determinantes)
+    -   Gramática analítica con formas estables de las raíces léxicas
+        -   sin terminación de plural (uso de un adjetivo para indicar pluralidad cuando sea necesario)
+        -   sustantivos sin género gramatical (uso de adjetivos para indicar el género cuando sea necesario)
+        -   formas verbales aislantes (uso de partículas en lugar de sufijos)
+        -   formación de palabras completamente aislante o, alternativamente, un sistema aglutinante de afijos inspirado en el turco (con morfemas estables), en lugar del complejo sistema del Esperanto con terminaciones vocálicas
+        -   correlativos aislantes (posteriormente revisados para adoptar correlativos de una sola palabra)
+        -   ciertas locuciones prepositivas
 
-- Uso de [onomatopeya interlingüística](https://en.wikipedia.org/wiki/Cross-linguistic_onomatopoeias) (fuente de todas las palabras onomatopéyicas de Globasa)
+-   Uso de [onomatopeyas comunes a distintas lenguas](https://en.wikipedia.org/wiki/Cross-linguistic_onomatopoeias) (fuente de todas las palabras onomatopéyicas del Globasa)
 
-- Elegir palabras de función fácilmente distinguibles y evitar pares mínimos
+-   Selección de palabras funcionales fácilmente distinguibles entre sí y evitación de pares mínimos
 
-Cuando lo encontré en julio del 2017, Pandunia parecía la lengua mundial más cercana a lo que yo imaginaba. La fonología, sin embargo, parecía un poco más compleja de lo necesario (particularmente el uso de oclusivas sonoras y sordas en la posición final de palabra) y hubo otros problemas que sentí que debían abordarse, incluyendo palabras con sonidos similares, como los pronombres. Después de largas discusiones en Facebook con Risto Kupsala (el creador de Pandunia) con respecto a su fonología, el inventario fonético de Pandunia se modificó a un inventario anterior más sencillo. Luego, tras una inspección más minuciosa, me di cuenta de que Pandunia carecía de la morfología/sintaxis necesaria para desambiguar oraciones simples, y mucho menos oraciones complejas. Fue en ese momento, sólo a unas pocas semanas de haberme encontrado con Pandunia, que decidí partir y comenzar mi propio proyecto.
+Cuando Ortega descubrió Pandunia en julio de 2017, le pareció la lengua mundial que más se acercaba a lo que tenía en mente. Sin embargo, su fonología le pareció algo más compleja de lo necesario (en particular, por el uso de oclusivas sonoras y sordas en posición final de palabra), y había otros aspectos que, a su juicio, debían abordarse, entre ellos la presencia de palabras de sonido similar, como los pronombres. Tras extensas conversaciones en Facebook con Risto Kupsala (creador de Pandunia) sobre su fonología, el inventario fonémico de Pandunia volvió a una versión anterior más sencilla. Posteriormente, al examinar Pandunia con más detenimiento, Ortega se dio cuenta de que carecía de la morfología y la sintaxis necesarias para desambiguar incluso oraciones sencillas, y mucho menos oraciones complejas. Fue por esa época, apenas unas semanas después de conocer Pandunia, cuando decidió seguir su propio camino y comenzar su propio proyecto.
 
-Cuando comencé a desarrollar el proyecto, me di cuenta de que la mejor manera de comenzar era con la parte más difícil: las palabras de función, incluidos los afijos gramaticales y derivativos. Al hacerlo, la primera pregunta que tuve que abordar fue qué hacer con las palabras de contenido, específicamente, si optar por palabras sin clase y depender de partículas sintácticas (lo cual asumí sería el método de Pandunia) o si asignar clases de palabras y probablemente usar afijos para alternar entre ellos. Sabía que definitivamente no quería introducir terminaciones de vocales, como en Esperanto. Esto habría representado una clara desviación del modelo típico de lenguas criollas. Opté por el término medio entre los dos extremos del método de palabras sin clases y el método de terminaciones de vocales: adopté dos clases principales de palabras, palabras _sustantivo/verbo_ y palabras _adj/adv_. Las razones para rechazar el método de palabras sin clases son complejas y ya se han discutido con Risto en otro foro.
+Al empezar a desarrollar el proyecto, Ortega se dio cuenta de que lo mejor era comenzar por la parte más difícil: las palabras funcionales, incluidos los afijos gramaticales y derivativos. La primera cuestión que tuvo que resolver fue qué hacer con las palabras de contenido; concretamente, si optar por palabras sin clase y recurrir a partículas sintácticas (que suponía que sería el enfoque de Pandunia) o asignar clases de palabras y probablemente utilizar afijos para pasar de una clase a otra. Tenía muy claro que no quería introducir terminaciones vocálicas, como en Esperanto. Esto habría supuesto una clara desviación del modelo típico de las lenguas criollas. Optó por un término medio entre ambos extremos —el enfoque de palabras sin clase y el de terminaciones vocálicas— y adoptó dos clases principales de palabras: sustantivo/verbo y adjetivo/adverbio. Las razones para rechazar el enfoque de palabras sin clase son complejas y se han debatido con Risto en otros lugares.
 
-Inicialmente, anticipé llevarme alrededor de un año para crear una gramática esencial completa, al menos 500 raíces y afijos en total, además de un sitio web sencillo. Sin embargo, me llevó ese tiempo decidir la forma de todas las palabras función y los afijos, mientras desarrollaba la estructura para la gramática esencial. Me tomó otro año completar la gramática esencial, crear un léxico de 1,000 raíces y completar el primer sitio web, todo mientras continuaba haciendo ajustes y cambios. Antes de publicar, quería estar seguro de que el proyecto era al menos un 95% estable. 
+Ortega había previsto inicialmente dedicar alrededor de un año a desarrollar toda la gramática básica, un total de al menos 500 raíces y afijos y un sitio web sencillo. En cambio, le llevó aproximadamente ese tiempo decidir la forma de todas las palabras funcionales y los afijos mientras desarrollaba el marco de la gramática básica. Le llevó otro año completar dicha gramática, elaborar un léxico de 1.000 raíces y terminar el primer sitio web, todo ello mientras seguía introduciendo ajustes y cambios. Antes de publicar el proyecto, quería asegurarse de que fuera estable al menos en un 95 %.
 
-El nombre del idioma originalmente fue _Geokreol_. Más tarde, consideré _Gayabas_. Inicialmente, todos las truncaciones omitían la vocal final de la palabra raíz (**basa** &rarr; **bas**, por ejemplo), pero una vez que decidí que las truncaciones no tenían que ser sistemáticas, se me ocurrió **-sa** para formar nombres de idiomas naturalistas (**Espanisa**, **Fransesa**, **Turkisa**, etc.), lo que llevó a la raíz fusionada **Globasa**. Decidí publicar Globasa el 26 de julio del 2019 como reconocimiento al Esperanto, fecha de 1887 en que se publicó el _Unua Libro_. Después de su publicación, terminé haciendo más cambios y ajustes de los que había anticipado inicialmente, por lo que es posible que Globasa estuviera por debajo del 95% de estabilidad cuando se publicó por primera vez, pero ciertamente no por debajo del 90%. Ver [Estabilidad de Globasa](/max/andinya-de-globasa).
+El nombre original de la lengua era _Geokreol_. Más adelante, Ortega consideró _Gayabas_. Al principio, todos los truncamientos omitían la vocal final de la palabra raíz (**basa** &rarr; **bas**, por ejemplo), pero una vez que decidió que los truncamientos no tenían por qué ser sistemáticos, creó **-sa** para formar nombres naturalistas de lenguas (**Espanisa**, **Fransesa**, **Turkisa**, etc.), lo que dio lugar a la raíz fusionada **Globasa**. Ortega decidió publicar Globasa el 26 de julio de 2019 en homenaje al Esperanto, ya que esa fue la fecha en que se publicó el _Unua Libro_ en 1887. Después de su publicación, se hicieron más cambios y ajustes de los que había previsto inicialmente, por lo que es posible que el Globasa tuviera una estabilidad inferior al 95 % cuando se publicó por primera vez, aunque ciertamente no inferior al 90 %. Véase [Estabilidad del Globasa](https://www.globasa.net/spa/max/andinya-de-globasa).
+```
