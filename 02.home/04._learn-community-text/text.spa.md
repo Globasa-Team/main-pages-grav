@@ -7,7 +7,7 @@ cache_enable: false
 #### Recursos de aprendizaje
 
 Vistazo rápido:
-* [Gramática de referencia breve](https://en.wikiversity.org/wiki/User:Sir_Beluga/Globasa)
+* [Grámatica de referencia concisa](https://xwexi.globasa.net/spa/gramati/kurto-gramati)
  
 Empieza a aprender:
 * [Las 500 raíces y afijos más comunes](https://menalari.globasa.net/spa/lexilari/500%20maxim%20pimpan%20genulexi%20ji%20fikso): Domina esta lista para alcanzar una fluidez básica y comprender más del 90% de las palabras de los textos típicos en Globasa.  
@@ -35,7 +35,7 @@ Wikis:
 
 #### Desarrollo
 
-Tras una etapa experimental y de desarrollo de dos años, el Globasa se publicó el 26 de julio de 2019 con una gramática básica completa y 1000 raíces, listo para ponerse en práctica. Desde entonces, el Globasa ha experimentado un mayor [desarrollo](/max/alogi-ji-lilalogi) con la ayuda y la colaboración de la comunidad auxlang, pero por lo demás se ha mantenido [relativamente estable](https://www.reddit.com/r/Globasa/comments/qskclh/globasas_stability_comparison_of_original_globasa/) y fiel a su visión. Con más de 9000 entradas de diccionario en total, un [curso para principiantes](https://xwexi.globasa.net/spa/darsu) y abundante material de lectura, el Globasa se encuentra actualmente en la [Fase 6](https://www.reddit.com/r/Globasa/comments/15a8861/fase_6/) de su etapa de desarrollo y crecimiento.
+Tras una etapa experimental y de desarrollo de dos años, el Globasa se publicó el 26 de julio de 2019 con una gramática básica completa y 1000 raíces, listo para ponerse en práctica. Desde entonces, el Globasa ha experimentado un mayor [desarrollo](/max/alogi-ji-lilalogi) con la ayuda y la colaboración de la comunidad auxlang, pero por lo demás se ha mantenido [relativamente estable](https://www.reddit.com/r/Globasa/comments/qskclh/globasas_stability_comparison_of_original_globasa/) y fiel a su visión. Con más de 9500 entradas de diccionario en total, un [curso para principiantes](https://xwexi.globasa.net/spa/darsu) y abundante material de lectura, el Globasa se encuentra actualmente en la [Fase 6](https://www.reddit.com/r/Globasa/comments/15a8861/fase_6/) de su etapa de desarrollo y crecimiento.
 
 Páginas del sitio web relacionadas con el desarrollo del Globasa:
 

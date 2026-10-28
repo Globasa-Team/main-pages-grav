@@ -6,8 +6,10 @@ cache_enable: false
 
 #### Lernorimedoj
 
-Komencu lerni:
+Rapida superrigardo:
+* [Konciza referenca gramatiko](https://xwexi.globasa.net/epo/gramati/kurto-gramati)
 
+Komencu lerni:
 * [500 plej oftaj radikvortoj kaj afiksoj](https://menalari.globasa.net/epo/lexilari/500%20maxim%20pimpan%20genulexi%20ji%20fikso): Regu ĉi tiun liston por atingi bazan fluecon kaj kompreni pli ol 90% de la vortoj en tipaj Globaso-tekstoj.
 
  * [Parto 1](https://menalari.globasa.net/epo/lexilari/bage%201%20de%20lista%20500)
@@ -37,7 +39,7 @@ Aliĝu al ni por fari demandojn, konektiĝi kun la komunumo, kaj ekuzi Globason!
 
 #### Evoluo
 
-Post eksperimenta kaj evoluiga etapo de du jaroj, Globaso estis publikigita la 26-an de julio 2019 kun kompleta kerna gramatiko kaj 1000 radikvortoj, preta por praktika uzo. De tiam, Globaso spertis pluan [evoluon](https://www.globasa.net/epo/max/alogi-ji-lilalogi) kun la helpo kaj kunlaboro de la helplingva komunumo, sed cetere restis [relative stabila](https://www.reddit.com/r/Globasa/comments/qskclh/globasas_stability_comparison_of_original_globasa/) kaj fidela al sia vizio. Kun pli ol 9 000 vortaraj enskriboj entute, [kurso por komencantoj](https://xwexi.globasa.net/epo/darsu) kaj abunda legomaterialo, Globaso nuntempe troviĝas en [Fazo 6](https://www.reddit.com/r/Globasa/comments/15a8861/fase_6/) de sia evoluiga kaj kreska etapo.
+Post eksperimenta kaj evoluiga etapo de du jaroj, Globaso estis publikigita la 26-an de julio 2019 kun kompleta kerna gramatiko kaj 1000 radikvortoj, preta por praktika uzo. De tiam, Globaso spertis pluan [evoluon](https://www.globasa.net/epo/max/alogi-ji-lilalogi) kun la helpo kaj kunlaboro de la helplingva komunumo, sed cetere restis [relative stabila](https://www.reddit.com/r/Globasa/comments/qskclh/globasas_stability_comparison_of_original_globasa/) kaj fidela al sia vizio. Kun pli ol 9500 vortaraj enskriboj entute, [kurso por komencantoj](https://xwexi.globasa.net/epo/darsu) kaj abunda legomaterialo, Globaso nuntempe troviĝas en [Fazo 6](https://www.reddit.com/r/Globasa/comments/15a8861/fase_6/) de sia evoluiga kaj kreska etapo.
 
 Retejaj paĝoj rilataj al la evoluo de Globaso:
 

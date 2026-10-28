@@ -7,7 +7,7 @@ cache_enable: false
 #### Learning Resources
 
 Quick overview:
-* [Brief Reference Grammar](https://en.wikiversity.org/wiki/User:Sir_Beluga/Globasa)
+* [Concise Reference Grammar](https://xwexi.globasa.net/eng/gramati/kurto-gramati)
  
 Start learning:
 * [500 most common root words and affixes](https://menalari.globasa.net/eng/lexilari/500%20maxim%20pimpan%20genulexi%20ji%20fikso): Master this list to achieve basic fluency and comprehend over 90% of the words in typical Globasa texts.  
@@ -35,7 +35,7 @@ Join us to ask questions, connect with the community, and start using Globasa!
 
 #### Development
 
-After an experimental and developmental stage of two years, Globasa was published on July 26, 2019 with a complete core grammar and 1,000 root words, ready to be put into practice. Since then, Globasa has undergone further [development](/max/alogi-ji-lilalogi) with the help and collaboration of the auxlang community, but has otherwise remained [relatively stable](https://www.reddit.com/r/Globasa/comments/qskclh/globasas_stability_comparison_of_original_globasa/) and true to its vision. With over 9,000 total dictionary entries, a [beginner's course](https://xwexi.globasa.net/eng/darsu) and plenty of reading material, Globasa is currently in [Phase 6](https://www.reddit.com/r/Globasa/comments/15a8861/fase_6/) of its developmental and growth stage.
+After an experimental and developmental stage of two years, Globasa was published on July 26, 2019 with a complete core grammar and 1,000 root words, ready to be put into practice. Since then, Globasa has undergone further [development](/max/alogi-ji-lilalogi) with the help and collaboration of the auxlang community, but has otherwise remained [relatively stable](https://www.reddit.com/r/Globasa/comments/qskclh/globasas_stability_comparison_of_original_globasa/) and true to its vision. With over 9,500 total dictionary entries, a [beginner's course](https://xwexi.globasa.net/eng/darsu) and plenty of reading material, Globasa is currently in [Phase 6](https://www.reddit.com/r/Globasa/comments/15a8861/fase_6/) of its developmental and growth stage.
 
 Website pages relevant to Globasa's development:
 
